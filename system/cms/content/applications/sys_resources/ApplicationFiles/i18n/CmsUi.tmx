@@ -30,6 +30,7 @@
     <header>
         <prop type="supportedlanguage">en-us</prop>
         <prop type="supportedlanguage">es</prop>
+		<prop type="supportedlanguage">hi</prop>
     </header>
     <body>
     <!--  Example Entry
@@ -58,6 +59,9 @@
             <tuv xml:lang="es">
                 <seg>Cambia la Contraseña</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>पासवर्ड बदलें</seg>
+            </tuv>
         </tu>
 
         <tu tuid="perc.ui.common.label@Change Password Success">
@@ -68,6 +72,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Contraseña cambiada exitosamente para</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>पासवर्ड सफलतापूर्वक बदला गया</seg>
             </tuv>
         </tu>
 
@@ -80,6 +87,9 @@
             <tuv xml:lang="es">
                 <seg>Las contraseñas no coinciden</seg>
              </tuv>
+            <tuv xml:lang="hi">
+                <seg>पासवर्ड मेल नहीं खाते</seg>
+             </tuv>
         </tu>
 
         <tu tuid="perc.ui.common.label@Password Six Characters">
@@ -90,6 +100,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>La contraseña debe contener 6 caracteres como mínimo</seg>
+             </tuv>
+            <tuv xml:lang="hi">
+                <seg>पासवर्ड कम से कम 6 अक्षरों का होना चाहिए</seg>
              </tuv>
         </tu>
 
@@ -102,6 +115,9 @@
             <tuv xml:lang="es">
                 <seg>Regresa</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>वापस</seg>
+            </tuv>
         </tu>
 
         <tu tuid="perc.ui.common.label@Cancel">
@@ -112,6 +128,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Cancelar</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>रद्द करें</seg>
             </tuv>
         </tu>
 
@@ -124,6 +143,9 @@
                     <tuv xml:lang="es">
                         <seg>Enviar</seg>
                     </tuv>
+                    <tuv xml:lang="hi">
+                        <seg>जमा करें</seg>
+                    </tuv>
                 </tu>
 
         <tu tuid="perc.ui.common.label@Confirm">
@@ -134,6 +156,9 @@
                     </tuv>
                     <tuv xml:lang="es">
                         <seg>Confirmar</seg>
+                    </tuv>
+                    <tuv xml:lang="hi">
+                        <seg>पुष्टि करें</seg>
                     </tuv>
         </tu>
 
@@ -146,6 +171,9 @@
             <tuv xml:lang="es">
               <seg>Cerrar</seg>
             </tuv>
+            <tuv xml:lang="hi">
+              <seg>बंद करें</seg>
+            </tuv>
         </tu>
 
         <tu tuid="perc.ui.common.label@Processing">
@@ -156,6 +184,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Procesando</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>प्रसंस्करण</seg>
             </tuv>
         </tu>
 
@@ -168,6 +199,9 @@
          <tuv xml:lang="es">
            <seg>Salvar</seg>
          </tuv>
+         <tuv xml:lang="hi">
+           <seg>जमा करें</seg>
+         </tuv>
        </tu>
 
         <tu tuid="perc.ui.common.label@Finish">
@@ -178,6 +212,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Terminar</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>खत्म करें</seg>
             </tuv>
         </tu>
 
@@ -190,6 +227,9 @@
             <tuv xml:lang="es">
                 <seg>Mago</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>विज़ार्ड</seg>
+            </tuv>
         </tu>
 
          <tu tuid="perc.ui.common.label@Log Out">
@@ -201,6 +241,9 @@
             <tuv xml:lang="es">
                 <seg>Cerrar sesion</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>लॉग आउट</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.common.label@Welcome">
             <prop type="sectionname" xml:lang="en-us">UI Common</prop>
@@ -210,6 +253,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Bienvenido, </seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>स्वागत, </seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.common.label@Help">
@@ -221,6 +267,9 @@
             <tuv xml:lang="es">
                 <seg>Ayudar</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>मदद</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.common.label@CM1 Community">
             <prop type="sectionname" xml:lang="en-us">UI Common</prop>
@@ -230,6 +279,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Comunidad Percussion</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>पर्क्यूशन समुदाय</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.common.label@Percussion Community">
@@ -241,6 +293,9 @@
             <tuv xml:lang="es">
                 <seg>Comunidad Percussion</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>पर्क्यूशन समुदाय</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.common.label@About">
             <prop type="sectionname" xml:lang="en-us">UI Common</prop>
@@ -250,6 +305,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Sobre</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>के बारे में</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.common.label@Rhythmyx UI">
@@ -261,6 +319,9 @@
             <tuv xml:lang="es">
                 <seg>Rhythmyx UI</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>रिदमिक्स यूआई</seg>
+            </tuv>
         </tu>
          <tu tuid="perc.ui.common.label@Next">
             <prop type="sectionname" xml:lang="en-us">UI Common</prop>
@@ -270,6 +331,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Siguiente</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>अगला</seg>
             </tuv>
         </tu>
 
@@ -282,6 +346,9 @@
             <tuv xml:lang="es">
                 <seg>Nombre de usuario</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>उपयोगकर्ता नाम</seg>
+            </tuv>
         </tu>
 
 
@@ -293,6 +360,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>¿Desea continuar con la operación?</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>क्या आप ऑपरेशन जारी रखना चाहते हैं?</seg>
             </tuv>
         </tu>
 
@@ -308,6 +378,9 @@
             <tuv xml:lang="es">
                 <seg>El contenido que intenta editar ha sido eliminado.</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>आप जिस सामग्री को संपादित करने का प्रयास कर रहे हैं उसे हटा दिया गया है।</seg>
+            </tuv>
          </tu>
 
 		 <tu tuid="perc.ui.common.error@Preview Content Deleted">
@@ -318,6 +391,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Se ha eliminado el contenido que intenta visualizar.</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>आप जिस सामग्री का पूर्वावलोकन करने का प्रयास कर रहे हैं उसे हटा दिया गया है।</seg>
             </tuv>
          </tu>
 
@@ -331,6 +407,9 @@
             <tuv xml:lang="es">
                 <seg>Navegación superior</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>शीर्ष नेविगेशन</seg>
+            </tuv>
    </tu>
 
         <tu tuid="perc.ui.navMenu.admin@Navigation Options">
@@ -341,6 +420,9 @@
              </tuv>
              <tuv xml:lang="es">
                  <seg>Opciones de navegación</seg>
+             </tuv>
+             <tuv xml:lang="hi">
+                 <seg>नेविगेशन विकल्प</seg>
              </tuv>
          </tu>
 
@@ -353,6 +435,9 @@
             <tuv xml:lang="es">
                 <seg>Administración</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>व्यवस्थापक</seg>
+            </tuv>
         </tu>
 
         <tu tuid="perc.ui.navMenu.admin@Widget Builder">
@@ -363,6 +448,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Constructor de Widget</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>विजेट बिल्डर</seg>
             </tuv>
         </tu>
 
@@ -375,6 +463,9 @@
             <tuv xml:lang="es">
                 <seg>Tablero</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>डैशबोर्ड</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.navMenu.home@Home">
             <prop type="sectionname" xml:lang="en-us">Home</prop>
@@ -384,6 +475,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Iniciar</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>होम</seg>
             </tuv>
         </tu>
 
@@ -397,6 +491,9 @@
             <tuv xml:lang="es">
                 <seg>Navegación</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>मार्गदर्शन</seg>
+            </tuv>
         </tu>
 
 
@@ -409,6 +506,9 @@
             <tuv xml:lang="es">
                 <seg>Diseño</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>डिज़ाइन</seg>
+            </tuv>
     	</tu>
 
         <tu tuid="perc.ui.navMenu.publish@Publish">
@@ -420,7 +520,9 @@
     		<tuv xml:lang="es">
                 <seg>Publicar</seg>
             </tuv>
-
+    		<tuv xml:lang="hi">
+                <seg>प्रकाशित करें</seg>
+            </tuv>
         </tu>
 
         <tu tuid="perc.ui.navMenu.workflow@Workflow">
@@ -431,6 +533,9 @@
             </tuv>
              <tuv xml:lang="es">
                 <seg>Flujo de trabajo</seg>
+            </tuv>
+             <tuv xml:lang="hi">
+                <seg>कार्यप्रवाह</seg>
             </tuv>
         </tu>
 
@@ -443,6 +548,9 @@
             <tuv xml:lang="es">
                 <seg>Editor</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>एडीटर</seg>
+            </tuv>
         </tu>
 
         <tu tuid="perc.ui.navMenu.finder@Site:">
@@ -453,6 +561,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Sitio:</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>साइट:</seg>
             </tuv>
         </tu>
 
@@ -467,6 +578,9 @@
             <tuv xml:lang="es">
                 <seg>Diseño del Sitio</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>साइट डिज़ाइन</seg>
+            </tuv>
         </tu>
 
   <!-- Architecture -->
@@ -479,6 +593,9 @@
             <tuv xml:lang="es">
                 <seg>Navegación del sitio</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>साइट नेविगेशन</seg>
+            </tuv>
         </tu>
 
   <!-- Templates -->
@@ -490,6 +607,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Diseño del Sitio</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>साइट डिज़ाइन</seg>
             </tuv>
         </tu>
 
@@ -504,6 +624,9 @@
             <tuv xml:lang="es">
                 <seg>Tablero</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>डैशबोर्ड</seg>
+            </tuv>
     </tu>
 
   <!-- Publish -->
@@ -516,6 +639,9 @@
               <tuv xml:lang="es">
                   <seg>Sitios de Filtro</seg>
               </tuv>
+              <tuv xml:lang="hi">
+                  <seg>फ़िल्टर साइटें</seg>
+              </tuv>
   		 </tu>
 
         <tu tuid="perc.ui.publish.title@Filter Items">
@@ -525,6 +651,9 @@
               </tuv>
               <tuv xml:lang="es">
                   <seg>Filtrar Elementos</seg>
+              </tuv>
+              <tuv xml:lang="hi">
+                  <seg>आइटम फ़िल्टर करें</seg>
               </tuv>
   		 </tu>
 
@@ -536,6 +665,9 @@
               <tuv xml:lang="es">
                   <seg>Tarjeta</seg>
               </tuv>
+              <tuv xml:lang="hi">
+                  <seg>कार्ड</seg>
+              </tuv>
   		 </tu>
          <tu tuid="perc.ui.publish.title@List">
               <note xml:lang="en-us">Label for list view</note>
@@ -544,6 +676,9 @@
               </tuv>
               <tuv xml:lang="es">
                   <seg>Lista</seg>
+              </tuv>
+              <tuv xml:lang="hi">
+                  <seg>सूची</seg>
               </tuv>
   		 </tu>
          <tu tuid="perc.ui.publish.title@Publish Items Attempted">
@@ -554,6 +689,9 @@
               <tuv xml:lang="es">
                   <seg>Publicar Artículos Intentados</seg>
               </tuv>
+              <tuv xml:lang="hi">
+                  <seg>आइटम प्रकाशित करने का प्रयास किया गया</seg>
+              </tuv>
   		 </tu>
   		 <tu tuid="perc.ui.publish.title@Site Configuration">
                        <note xml:lang="en-us">Site Configuration</note>
@@ -562,6 +700,9 @@
                        </tuv>
                        <tuv xml:lang="es">
                            <seg>Configuración del sitio</seg>
+                       </tuv>
+                       <tuv xml:lang="hi">
+                           <seg>साइट कॉन्फ़िगरेशन</seg>
                        </tuv>
            		 </tu>
          <tu tuid="perc.ui.publish.title@Publish Item Details">
@@ -572,6 +713,9 @@
               <tuv xml:lang="es">
                   <seg>Publicar Detalles Del Artículo</seg>
               </tuv>
+              <tuv xml:lang="hi">
+                  <seg>आइटम विवरण प्रकाशित करें</seg>
+              </tuv>
   		 </tu>
          <tu tuid="perc.ui.publish.title@Select Publish Item">
               <note xml:lang="en-us">Call to action for publish item details</note>
@@ -581,6 +725,9 @@
               <tuv xml:lang="es">
                   <seg>Seleccione un elemento de publicación para ver los detalles</seg>
               </tuv>
+              <tuv xml:lang="hi">
+                  <seg>विवरण देखने के लिए एक प्रकाशित आइटम का चयन करें</seg>
+              </tuv>
   		 </tu>
          <tu tuid="perc.ui.publish.title@SiteName">
             <note xml:lang="en-us">Title of the column.</note>
@@ -589,6 +736,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Nombre del sitio</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>साइट का नाम</seg>
             </tuv>
 		</tu>
 
@@ -600,6 +750,9 @@
             <tuv xml:lang="es">
                 <seg>Detalles</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>विवरण</seg>
+            </tuv>
 		</tu>
 
          <tu tuid="perc.ui.publish.title@Publish Details">
@@ -609,6 +762,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Publicar detalles</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>विवरण प्रकाशित करें</seg>
             </tuv>
 		</tu>
 
@@ -620,6 +776,9 @@
             <tuv xml:lang="es">
                 <seg>Todos</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>समस्त</seg>
+            </tuv>
 		</tu>
 
          <tu tuid="perc.ui.publish.title@Delete">
@@ -629,6 +788,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Borrar</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>हटाना</seg>
             </tuv>
 		</tu>
 
@@ -640,6 +802,9 @@
             <tuv xml:lang="es">
                 <seg>Espectáculo</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>दिखाओ</seg>
+            </tuv>
 		</tu>
 
         <tu tuid="perc.ui.publish.title@Status">
@@ -649,6 +814,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Estado</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>स्थिति</seg>
             </tuv>
         </tu>
 
@@ -660,6 +828,9 @@
             <tuv xml:lang="es">
                 <seg>Hora de inicio</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>समय शुरू</seg>
+            </tuv>
         </tu>
 
         <tu tuid="perc.ui.publish.title@Elapsed Time">
@@ -669,6 +840,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Tiempo transcurrido</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>बीता हुआ समय</seg>
             </tuv>
         </tu>
 
@@ -680,6 +854,9 @@
             <tuv xml:lang="es">
                 <seg>Cambiar menú desplegable</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>ड्रॉपडाउन टॉगल करें</seg>
+            </tuv>
         </tu>
 
         <tu tuid="perc.ui.publish.title@Full">
@@ -689,6 +866,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Completo</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>भरा हुआ</seg>
             </tuv>
         </tu>
 
@@ -700,6 +880,9 @@
             <tuv xml:lang="es">
                 <seg>Detener</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>रुके</seg>
+            </tuv>
         </tu>
 
         <tu tuid="perc.ui.publish.title@Progress">
@@ -709,6 +892,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Progreso</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>प्रगति</seg>
             </tuv>
         </tu>
 
@@ -720,6 +906,9 @@
             <tuv xml:lang="es">
                 <seg>Duración</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>अवधि</seg>
+            </tuv>
         </tu>
 
         <tu tuid="perc.ui.publish.title@Site">
@@ -729,6 +918,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Sitio</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>साइट</seg>
             </tuv>
         </tu>
 
@@ -740,6 +932,9 @@
             <tuv xml:lang="es">
                 <seg> Terminado</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg> पूरा</seg>
+            </tuv>
         </tu>
 
         <tu tuid="perc.ui.publish.title@Action">
@@ -749,6 +944,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Acción</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>कार्रवाई</seg>
             </tuv>
         </tu>
 
@@ -760,6 +958,9 @@
             <tuv xml:lang="es">
 				<seg>Elementos en cola</seg>
             </tuv>
+            <tuv xml:lang="hi">
+				<seg>कतारबद्ध आइटम</seg>
+            </tuv>
         </tu>
 
 		<tu tuid="perc.ui.publish.title@Date">
@@ -769,6 +970,9 @@
             </tuv>
             <tuv xml:lang="es">
 				<seg>Fecha</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+				<seg>तारीख</seg>
             </tuv>
         </tu>
 
@@ -780,6 +984,9 @@
             <tuv xml:lang="es">
 				<seg>Servidor</seg>
             </tuv>
+            <tuv xml:lang="hi">
+				<seg>सर्वर</seg>
+            </tuv>
         </tu>
 
         <tu tuid="perc.ui.publish.title@Date Range">
@@ -789,6 +996,9 @@
             </tuv>
             <tuv xml:lang="es">
 				<seg>Rango de fechas</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+				<seg>तिथि सीमा</seg>
             </tuv>
         </tu>
 
@@ -800,6 +1010,9 @@
             <tuv xml:lang="es">
 				<seg>Publicado</seg>
             </tuv>
+            <tuv xml:lang="hi">
+				<seg>प्रकाशित</seg>
+            </tuv>
         </tu>
 
 		<tu tuid="perc.ui.publish.title@Actions">
@@ -809,6 +1022,9 @@
             </tuv>
             <tuv xml:lang="es">
 				<seg>Comportamiento</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+				<seg>कार्रवाई</seg>
             </tuv>
         </tu>
 
@@ -820,6 +1036,9 @@
             <tuv xml:lang="es">
 				<seg>Borrar</seg>
             </tuv>
+            <tuv xml:lang="hi">
+				<seg>हटाने के लिए</seg>
+            </tuv>
         </tu>
 
         <tu tuid="perc.ui.publish.title@Delete Publishing Logs">
@@ -829,6 +1048,9 @@
             </tuv>
             <tuv xml:lang="es">
 				<seg>Eliminar Registros de Publicación</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+				<seg>प्रकाशन लॉग हटाएँ</seg>
             </tuv>
         </tu>
 
@@ -840,6 +1062,9 @@
             <tuv xml:lang="es">
 				<seg>Registros eliminados con éxito</seg>
             </tuv>
+            <tuv xml:lang="hi">
+				<seg>लॉग सफलतापूर्वक हटा दिए गए</seg>
+            </tuv>
         </tu>
 
         <tu tuid="perc.ui.publish.title@Delete Server">
@@ -849,6 +1074,9 @@
             </tuv>
             <tuv xml:lang="es">
 				<seg>Eliminar Servidor</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+				<seg>सर्वर हटाएँ</seg>
             </tuv>
         </tu>
 
@@ -860,6 +1088,9 @@
             <tuv xml:lang="es">
 				<seg>Eliminado Exitosamente</seg>
             </tuv>
+            <tuv xml:lang="hi">
+				<seg>सफलतापूर्वक हटाया गया</seg>
+            </tuv>
         </tu>
 
         <tu tuid="perc.ui.publish.title@Publish Request">
@@ -869,6 +1100,9 @@
             </tuv>
             <tuv xml:lang="es">
 				<seg>Solicitud de Publicación</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+				<seg>अनुरोध प्रकाशित करें</seg>
             </tuv>
         </tu>
 
@@ -880,6 +1114,9 @@
             <tuv xml:lang="es">
 				<seg>Configuración del Servidor</seg>
             </tuv>
+            <tuv xml:lang="hi">
+				<seg>सर्वर कॉन्फ़िगरेशन</seg>
+            </tuv>
         </tu>
 
         <tu tuid="perc.ui.publish.title@Updated Successfully">
@@ -889,6 +1126,9 @@
             </tuv>
             <tuv xml:lang="es">
 				<seg>Actualizado Exitosamente</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+				<seg>सफलतापूर्वक अपडेट किया गया</seg>
             </tuv>
         </tu>
 
@@ -900,6 +1140,9 @@
             <tuv xml:lang="es">
 				<seg>Eliminar Servidor</seg>
             </tuv>
+            <tuv xml:lang="hi">
+				<seg>सर्वर हटाएँ</seg>
+            </tuv>
         </tu>
 
         <tu tuid="perc.ui.publish.title@Delete Server Dialog">
@@ -909,6 +1152,9 @@
             </tuv>
             <tuv xml:lang="es">
 				<seg>Estás a punto de eliminar una configuración de servidor. Esta acción no se puede deshacer. Seleccione confirmar para continuar.</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+				<seg>आप एक सर्वर कॉन्फ़िगरेशन को हटाने वाले हैं. इस एक्शन को वापस नहीं किया जा सकता। जारी रखने के लिए पुष्टि करें का चयन करें.</seg>
             </tuv>
         </tu>
 
@@ -920,6 +1166,9 @@
             <tuv xml:lang="es">
 				<seg>Dejar de Publicar Trabajo</seg>
             </tuv>
+            <tuv xml:lang="hi">
+				<seg>जॉब प्रकाशित करना बंद करो</seg>
+            </tuv>
         </tu>
 
         <tu tuid="perc.ui.publish.title@Successfully Stopped Publishing Job">
@@ -929,6 +1178,9 @@
             </tuv>
             <tuv xml:lang="es">
 				<seg>Trabajo de Publicación Exitosamente Detenido</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+				<seg>प्रकाशन कार्य सफलतापूर्वक बंद कर दिया गया</seg>
             </tuv>
         </tu>
 
@@ -940,6 +1192,9 @@
             <tuv xml:lang="es">
 				<seg>Tiempo de ejecución</seg>
             </tuv>
+            <tuv xml:lang="hi">
+				<seg>चलाने का समय</seg>
+            </tuv>
         </tu>
 
 	<tu tuid="perc.ui.publish.title@Operation">
@@ -949,6 +1204,9 @@
             </tuv>
             <tuv xml:lang="es">
 				<seg>Operación</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+				<seg>आपरेशन</seg>
             </tuv>
     </tu>
 
@@ -960,6 +1218,9 @@
             <tuv xml:lang="es">
 				<seg>Remoto</seg>
             </tuv>
+            <tuv xml:lang="hi">
+				<seg>हटाया गया</seg>
+            </tuv>
     </tu>
 
 	<tu tuid="perc.ui.publish.title@Delivery Type">
@@ -969,6 +1230,9 @@
             </tuv>
              <tuv xml:lang="es">
 				<seg>Tipo de Entrega</seg>
+            </tuv>
+             <tuv xml:lang="hi">
+				<seg>डिलीवरी के प्रकार</seg>
             </tuv>
     </tu>
 
@@ -980,6 +1244,9 @@
              <tuv xml:lang="es">
     			<seg>Identificación del Contenido</seg>
              </tuv>
+             <tuv xml:lang="hi">
+    			<seg>कंटेन्ट आईडी</seg>
+             </tuv>
     </tu>
     <tu tuid="perc.ui.publish.title@Revision ID">
              <note xml:lang="en-us">Title of the column.</note>
@@ -988,6 +1255,9 @@
              </tuv>
              <tuv xml:lang="es">
     			<seg>Identificación del Revisión</seg>
+             </tuv>
+             <tuv xml:lang="hi">
+    			<seg>संशोधन आईडी</seg>
              </tuv>
     </tu>
     <tu tuid="perc.ui.publish.title@Item Status ID">
@@ -998,6 +1268,9 @@
              <tuv xml:lang="es">
     			<seg>Identificación del Estado del artículo</seg>
              </tuv>
+             <tuv xml:lang="hi">
+    			<seg>आइटम स्थिति आईडी</seg>
+             </tuv>
     </tu>
     <tu tuid="perc.ui.publish.title@Template ID">
              <note xml:lang="en-us">Title of the column.</note>
@@ -1006,6 +1279,9 @@
              </tuv>
              <tuv xml:lang="es">
     			<seg>Identificación de Plantilla</seg>
+             </tuv>
+             <tuv xml:lang="hi">
+    			<seg>टेम्पलेट आईडी</seg>
              </tuv>
     </tu>
 
@@ -1017,6 +1293,9 @@
             <tuv xml:lang="es">
 				<seg>Identificación del trabajo</seg>
             </tuv>
+            <tuv xml:lang="hi">
+				<seg>जॉब आईडी</seg>
+            </tuv>
     </tu>
     <tu tuid="perc.ui.publish.title@File Name and Location">
             <note xml:lang="en-us">Title of the column.</note>
@@ -1025,6 +1304,9 @@
             </tuv>
             <tuv xml:lang="es">
 				<seg>Nombre y ubicación del archivo</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+				<seg>फ़ाइल का नाम और स्थान</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.publish.title@Filename">
@@ -1035,6 +1317,9 @@
             <tuv xml:lang="es">
 				<seg>Nombre del Archivo</seg>
             </tuv>
+            <tuv xml:lang="hi">
+				<seg>फ़ाइल का नाम</seg>
+            </tuv>
     	</tu>
     	<tu tuid="perc.ui.publish.title@Type">
             <note xml:lang="en-us">Title of the column.</note>
@@ -1043,6 +1328,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Escribe</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>प्रकार</seg>
             </tuv>
         </tu>
     	<tu tuid="perc.ui.publish.title@Title">
@@ -1053,6 +1341,9 @@
             <tuv xml:lang="es">
 				<seg>Título</seg>
             </tuv>
+            <tuv xml:lang="hi">
+				<seg>शीर्षक</seg>
+            </tuv>
     	</tu>
     	<tu tuid="perc.ui.publish.title@Last Modified">
             <note xml:lang="en-us">Title of the column.</note>
@@ -1061,6 +1352,9 @@
             </tuv>
             <tuv xml:lang="es">
 				<seg>Última modificación</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+				<seg>अंतिम बार संशोधित</seg>
             </tuv>
     	</tu>
     	<tu tuid="perc.ui.publish.title@Last Modified By">
@@ -1071,6 +1365,9 @@
             <tuv xml:lang="es">
 				<seg>Ultima Modificacion Por</seg>
             </tuv>
+            <tuv xml:lang="hi">
+				<seg>अंतिम बार संशोधित</seg>
+            </tuv>
     	</tu>
     	<tu tuid="perc.ui.publish.title@Last Published">
             <note xml:lang="en-us">Title of the column.</note>
@@ -1079,6 +1376,9 @@
             </tuv>
             <tuv xml:lang="es">
 				<seg>Última Publicación</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+				<seg>अंतिम प्रकाशित</seg>
             </tuv>
     	</tu>
         <tu tuid="perc.ui.publish.title@Folder ID">
@@ -1089,6 +1389,9 @@
             <tuv xml:lang="es">
 				<seg>Identificación del Carpeta</seg>
             </tuv>
+            <tuv xml:lang="hi">
+				<seg>फ़ोल्डर आईडी</seg>
+            </tuv>
     	</tu>
     	<tu tuid="perc.ui.publish.title@Location">
             <note xml:lang="en-us">Title of the column.</note>
@@ -1097,6 +1400,9 @@
             </tuv>
             <tuv xml:lang="es">
 				<seg>Ubicación</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+				<seg>स्थान</seg>
             </tuv>
     	</tu>
         <tu tuid="perc.ui.publish.title@Error">
@@ -1107,6 +1413,9 @@
               <tuv xml:lang="es">
 				<seg>Error</seg>
             </tuv>
+              <tuv xml:lang="hi">
+				<seg>गलती</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget@All Sites">
 			<note xml:lang="en-us">All Sites</note>
@@ -1115,6 +1424,9 @@
 			</tuv>
 			  <tuv xml:lang="es">
 				<seg>Todos los sitios</seg>
+			</tuv>
+			  <tuv xml:lang="hi">
+				<seg>सभी साइटें</seg>
 			</tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget.title@text">
@@ -1125,6 +1437,9 @@
               <tuv xml:lang="es">
                 <seg>Haz clic para crear un nuevo blog.</seg>
             </tuv>
+              <tuv xml:lang="hi">
+                <seg>नया ब्लॉग बनाने के लिए क्लिक करें</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget@Blog Title">
             <note xml:lang="en-us">Blog Title</note>
@@ -1133,6 +1448,9 @@
             </tuv>
               <tuv xml:lang="es">
                 <seg>Titulo de Blog</seg>
+            </tuv>
+              <tuv xml:lang="hi">
+                <seg>ब्लॉग का शीर्षक</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget@No Blogs Found">
@@ -1143,6 +1461,9 @@
               <tuv xml:lang="es">
                 <seg>No se encontraron blogs. Haga clic en el botón de arriba para crear un nuevo blog</seg>
             </tuv>
+              <tuv xml:lang="hi">
+                <seg>कोई ब्लॉग नहीं मिला. नया ब्लॉग बनाने के लिए ऊपर दिए गए बटन पर क्लिक करें</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget@Define your blog">
             <note xml:lang="en-us">Define your blog</note>
@@ -1151,6 +1472,9 @@
             </tuv>
               <tuv xml:lang="es">
                 <seg>Define tu blog</seg>
+            </tuv>
+              <tuv xml:lang="hi">
+                <seg>अपने ब्लॉग को परिभाषित करें</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget@Select your templates">
@@ -1161,6 +1485,9 @@
               <tuv xml:lang="es">
                 <seg>Selecciona tus plantillas</seg>
             </tuv>
+              <tuv xml:lang="hi">
+                <seg>अपने टेम्प्लेट चुनें</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget@Select a location">
             <note xml:lang="en-us">Select a location for your blog</note>
@@ -1169,6 +1496,9 @@
             </tuv>
               <tuv xml:lang="es">
                 <seg>* Seleccione una ubicación para su blog</seg>
+            </tuv>
+              <tuv xml:lang="hi">
+                <seg>* अपने ब्लॉग के लिए एक स्थान चुनें</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget@Blog link text">
@@ -1179,6 +1509,9 @@
               <tuv xml:lang="es">
                 <seg>* Texto del enlace del blog:</seg>
             </tuv>
+              <tuv xml:lang="hi">
+                <seg>* ब्लॉग लिंक टेक्स्ट:</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget@Blog name">
             <note xml:lang="en-us">Blog name</note>
@@ -1187,6 +1520,9 @@
             </tuv>
               <tuv xml:lang="es">
                 <seg>* Nombre del blog:</seg>
+            </tuv>
+              <tuv xml:lang="hi">
+                <seg>*ब्लॉग का नाम:</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget@No Authorization">
@@ -1197,6 +1533,9 @@
               <tuv xml:lang="es">
                 <seg>No estás autorizado a crear un blog en la carpeta seleccionada.</seg>
             </tuv>
+              <tuv xml:lang="hi">
+                <seg>आप चयनित फ़ोल्डर में ब्लॉग बनाने के लिए अधिकृत नहीं हैं।</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget@Blog Location Required">
             <note xml:lang="en-us">Blog location is a required field</note>
@@ -1205,6 +1544,9 @@
             </tuv>
               <tuv xml:lang="es">
                 <seg>La ubicación del blog es un campo obligatorio.</seg>
+            </tuv>
+              <tuv xml:lang="hi">
+                <seg>ब्लॉग स्थान एक आवश्यक फ़ील्ड है।</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget@Blog Link Text Required">
@@ -1215,6 +1557,9 @@
               <tuv xml:lang="es">
                 <seg>El texto del enlace del blog es un campo obligatorio.</seg>
             </tuv>
+              <tuv xml:lang="hi">
+                <seg>ब्लॉग लिंक टेक्स्ट एक आवश्यक फ़ील्ड है</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget@Blog Name Required">
             <note xml:lang="en-us">Blog name is a required field</note>
@@ -1223,6 +1568,9 @@
             </tuv>
               <tuv xml:lang="es">
                 <seg>El nombre del blog es un campo obligatorio.</seg>
+            </tuv>
+              <tuv xml:lang="hi">
+                <seg>ब्लॉग का नाम एक आवश्यक फ़ील्ड है</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget@Unique Blog Name">
@@ -1233,6 +1581,9 @@
               <tuv xml:lang="es">
                 <seg>El nombre del blog debe ser único.</seg>
             </tuv>
+              <tuv xml:lang="hi">
+                <seg>ब्लॉग का नाम अनोखा होना चाहिए</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget@Blog Index Page Template Required">
             <note xml:lang="en-us">Blog index page template is required</note>
@@ -1241,6 +1592,9 @@
             </tuv>
               <tuv xml:lang="es">
                 <seg>Se requiere plantilla de página de índice del blog.</seg>
+            </tuv>
+              <tuv xml:lang="hi">
+                <seg>ब्लॉग इंडेक्स पेज टेम्पलेट आवश्यक है</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget@Blog Post Page Template Required">
@@ -1251,6 +1605,9 @@
               <tuv xml:lang="es">
                 <seg>>Se requiere plantilla de página de publicación de blog.</seg>
             </tuv>
+              <tuv xml:lang="hi">
+                <seg>>ब्लॉग पोस्ट पेज टेम्पलेट आवश्यक है</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget@Blog Index Page Template Select">
             <note xml:lang="en-us">Select a template for the blog index page</note>
@@ -1259,6 +1616,9 @@
             </tuv>
               <tuv xml:lang="es">
                 <seg>Seleccione una plantilla para la página de índice del blog:</seg>
+            </tuv>
+              <tuv xml:lang="hi">
+                <seg>ब्लॉग इंडेक्स पेज के लिए एक टेम्पलेट चुनें:</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget@Blog Post Page Template Select">
@@ -1269,6 +1629,9 @@
               <tuv xml:lang="es">
                 <seg>Seleccione una plantilla para la página de publicación del blog:</seg>
             </tuv>
+              <tuv xml:lang="hi">
+                <seg>ब्लॉग पोस्ट पेज के लिए एक टेम्पलेट चुनें:</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.blogs.Gadget@Make Copies">
             <note xml:lang="en-us">Make copies of the blog templates for use by this blog</note>
@@ -1277,6 +1640,9 @@
             </tuv>
               <tuv xml:lang="es">
                 <seg>Haga copias de las plantillas del blog para usarlas en este blog</seg>
+            </tuv>
+              <tuv xml:lang="hi">
+                <seg>इस ब्लॉग द्वारा उपयोग के लिए ब्लॉग टेम्पलेट्स की प्रतियां बनाएं</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.publish.title@Assembly URL">
@@ -1287,6 +1653,9 @@
               <tuv xml:lang="es">
 				<seg>URL de Montaje</seg>
             </tuv>
+              <tuv xml:lang="hi">
+				<seg>असेंबली यूआरएल</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.publish.title@Error Details">
             <note xml:lang="en-us">Title of the publish item error section.</note>
@@ -1295,6 +1664,9 @@
             </tuv>
               <tuv xml:lang="es">
 				<seg>Error de Detalles</seg>
+            </tuv>
+              <tuv xml:lang="hi">
+				<seg>गलतियों की जानकारी</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.publish.errordialog.message@Publish Not Allowed">
@@ -1305,6 +1677,9 @@
             <tuv xml:lang="es">
                 <seg>Usted ha excedido los límites de su licencia o tiene una licencia inactiva y simplemente necesita registrarse. Vuelva al Monitor de licencia en el panel de control para resolver este problema. Para actualizar su licencia, póngase en contacto con un representante de ventas en sales@percussion.com o 01++1-443-535-1889. Gracias. </seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>आपने या तो अपनी लाइसेंस सीमा पार कर ली है या आपके पास निष्क्रिय लाइसेंस है और आपको बस पंजीकरण करने की आवश्यकता है। कृपया इस समस्या को हल करने के लिए डैशबोर्ड पर लाइसेंस मॉनिटर पर वापस लौटें। अपने लाइसेंस को अपग्रेड करने के लिए sales@percussion.com या +1-443-535-1889 पर बिक्री प्रतिनिधि से संपर्क करें। धन्यवाद। </seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.publish.errordialog.message@Bad configuration">
             <note xml:lang="en-us">Message for publication stopped for configuration issues.</note>
@@ -1313,6 +1688,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>No se pudo conectar con el servidor de publicación, compruebe la configuración del servidor de publicación.</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>प्रकाशन सर्वर से कनेक्ट नहीं हो सका, कृपया प्रकाशन सर्वर कॉन्फ़िगरेशन की जाँच करें।</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.publish.errordialog.message@Bad configuration multiple sites">
@@ -1323,6 +1701,9 @@
              <tuv xml:lang="es">
                 <seg>No se pudo publicar en los siguientes sitios debido a problemas de configuración del servidor de publicación: {0} </seg>
             </tuv>
+             <tuv xml:lang="hi">
+                <seg>प्रकाशन सर्वर कॉन्फ़िगरेशन समस्याओं के कारण निम्नलिखित साइटों पर प्रकाशित नहीं किया जा सका: {0}</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.publish.incrementalPreview.title@Incremental Publish Preview">
             <note xml:lang="en-us">Title for incremental preview overlay</note>
@@ -1331,6 +1712,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Vista previa de publicación incremental</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>वृद्धिशील प्रकाशन पूर्वावलोकन</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.publish.incrementalPreview@Items queued for incremental">
@@ -1341,6 +1725,9 @@
             <tuv xml:lang="es">
                 <seg>Elementos en cola para publicación incremental</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>वृद्धिशील प्रकाशन के लिए कतारबद्ध आइटम</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.publish.incrementalPreview@No items queued for incremental">
             <note xml:lang="en-us">Warning that no items are queued for incremental publish</note>
@@ -1349,6 +1736,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>No hay elementos en cola para publicación incremental</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>वृद्धिशील प्रकाशन के लिए कोई आइटम कतारबद्ध नहीं हैं</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.publish.incrementalPreview@Related items for approval">
@@ -1359,6 +1749,9 @@
             <tuv xml:lang="es">
                 <seg>Los siguientes artículos relacionados pueden ser aprobados para publicación</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>निम्नलिखित संबंधित वस्तुओं को प्रकाशन के लिए अनुमोदित किया जा सकता है</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.publish.incrementalPreview@No related items available for approval">
             <note xml:lang="en-us">Warning that no items are queued for incremental publish</note>
@@ -1367,6 +1760,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>No hay elementos relacionados pendientes de aprobación</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>कोई भी संबंधित आइटम अनुमोदन के लिए पड़ा हुआ नहीं है</seg>
             </tuv>
         </tu>
 
@@ -1379,6 +1775,9 @@
             <tuv xml:lang="es">
                 <seg>Ver</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>देखना</seg>
+            </tuv>
     </tu>
      <tu tuid="perc.ui.page.menu@Revisions">
             <prop type="sectionname" xml:lang="en-us">Page</prop>
@@ -1388,6 +1787,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Revisiones</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>संशोधन</seg>
             </tuv>
     </tu>
 
@@ -1400,6 +1802,9 @@
             <tuv xml:lang="es">
                 <seg>Comentarios</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>टिप्पणियाँ</seg>
+            </tuv>
     </tu>
 
     <tu tuid="perc.ui.page.menu@Preview">
@@ -1410,6 +1815,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Avance</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>पूर्व दर्शन</seg>
             </tuv>
     </tu>
 
@@ -1422,6 +1830,9 @@
             <tuv xml:lang="es">
                 <seg>Historial de Publicaciones</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>प्रकाशन इतिहास</seg>
+            </tuv>
     </tu>
 
         <tu tuid="perc.ui.page.label@Editing Page">
@@ -1432,6 +1843,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Página de Edición:</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>संपादन पृष्ठ:</seg>
             </tuv>
     </tu>
 
@@ -1444,6 +1858,9 @@
             <tuv xml:lang="es">
                 <seg>Viendo la Página:</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>पेज देखना:</seg>
+            </tuv>
     </tu>
 
      <tu tuid="perc.ui.page.recent@Added Recent Page">
@@ -1454,6 +1871,9 @@
 		    </tuv>
 		    <tuv xml:lang="es">
 		        <seg>Se agregó la página con id {0} a la lista de artículos recientes.</seg>
+		    </tuv>
+		    <tuv xml:lang="hi">
+		        <seg>हाल ही आइटम सूची में आईडी {0} वाला पेज जोड़ा गया।</seg>
 		    </tuv>
 	</tu>
 
@@ -1466,6 +1886,9 @@
             <tuv xml:lang="es">
                 <seg>Error al agregar la página con id {0} a la lista de elementos recientes.</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>हाल ही आइटम सूची में आईडी {0} वाला पेज जोड़ने में त्रुटि है।</seg>
+            </tuv>
     </tu>
 
     <tu tuid="perc.ui.page.mypages@Error retrieving status">
@@ -1476,6 +1899,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Error al recuperar el estado.</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>स्थिति पुनः प्राप्त करने में त्रुटि हुई</seg>
             </tuv>
    </tu>
 
@@ -1488,6 +1914,9 @@
             <tuv xml:lang="es">
                 <seg>Eliminar de Mis Páginas</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>मेरे पेजों से हटाएँ</seg>
+            </tuv>
    </tu>
     <tu tuid="perc.ui.page.mypages@Add to My Pages">
             <prop type="sectionname" xml:lang="en-us">Page</prop>
@@ -1497,6 +1926,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Añadir a Mis Páginas</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>मेरे पेजों में जोड़ें</seg>
             </tuv>
    </tu>
 
@@ -1510,6 +1942,9 @@
             <tuv xml:lang="es">
                 <seg>Editor</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>एडीटर</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.webmgt.title@Web Management">
             <prop type="sectionname" xml:lang="en-us">WebMgt</prop>
@@ -1519,6 +1954,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Gestión Web</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>वेब प्रबंधन</seg>
             </tuv>
         </tu>
           <tu tuid="perc.ui.webmgt.pageeditor.menu@Content">
@@ -1530,6 +1968,9 @@
              <tuv xml:lang="es">
                 <seg>Contenido</seg>
             </tuv>
+             <tuv xml:lang="hi">
+                <seg>कंटेन्ट</seg>
+            </tuv>
         </tu>
           <tu tuid="perc.ui.webmgt.pageeditor.menu@Page">
             <prop type="sectionname" xml:lang="en-us">WebMgt</prop>
@@ -1539,6 +1980,9 @@
             </tuv>
              <tuv xml:lang="es">
                 <seg>Página</seg>
+            </tuv>
+             <tuv xml:lang="hi">
+                <seg>पेज</seg>
             </tuv>
         </tu>
           <tu tuid="perc.ui.webmgt.pageeditor.menu@Preview">
@@ -1550,6 +1994,9 @@
             <tuv xml:lang="es">
                 <seg>Avance</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>पूर्व दर्शन</seg>
+            </tuv>
         </tu>
           <tu tuid="perc.ui.webmgt.pageeditor.menu@Widget Library">
             <prop type="sectionname" xml:lang="en-us">WebMgt</prop>
@@ -1559,6 +2006,9 @@
             </tuv>
              <tuv xml:lang="es">
                 <seg>Biblioteca de widgets</seg>
+            </tuv>
+             <tuv xml:lang="hi">
+                <seg>विजेट लाइब्रेरी</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.webmgt.contentbrowser.warning@Action Not Performed Overridden">
@@ -1570,6 +2020,9 @@
               <tuv xml:lang="es">
                 <seg>Esta acción no se puede realizar en el {0} porque ha sido abierta en otra sesión por un usuario Admin. El {0} se cerrará.</seg>
             </tuv>
+              <tuv xml:lang="hi">
+                <seg>यह क्रिया {0} पर नहीं की जा सकती क्योंकि इसे किसी व्यवस्थापक उपयोगकर्ता द्वारा किसी अन्य सत्र में खोला गया है।  {0} बंद हो जाएगा।</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.webmgt.contentbrowser.warning@Action Not Performed Deleted">
             <prop type="sectionname" xml:lang="en-us">WebMgt</prop>
@@ -1579,6 +2032,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Esta acción no se puede realizar en {0} porque se ha eliminado en otra sesión.</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>यह क्रिया {0} पर नहीं की जा सकती क्योंकि इसे किसी अन्य सत्र में हटा दिया गया है।</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.webmgt.contentbrowser.warning@Action Not Performed Saved">
@@ -1590,6 +2046,9 @@
             <tuv xml:lang="es">
                 <seg>Está intentando actualizar una revisión anterior de este elemento de contenido. Hay una versión más reciente de este elemento de contenido disponible. Actualiza tu pantalla antes de intentar editar este elemento de contenido.</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>आप इस सामग्री आइटम के पुराने संशोधन को अपडेट करने का प्रयास कर रहे हैं। इस सामग्री आइटम का नवीनतम संस्करण उपलब्ध है। कृपया इस सामग्री आइटम को संपादित करने का प्रयास करने से पहले अपनी स्क्रीन को ताज़ा करें।</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.webmgt.contentbrowser.warning.title@Open Asset">
             <prop type="sectionname" xml:lang="en-us">WebMgt</prop>
@@ -1599,6 +2058,9 @@
             </tuv>
              <tuv xml:lang="es">
                 <seg>Abrir activo</seg>
+            </tuv>
+             <tuv xml:lang="hi">
+                <seg>संपत्ति खोलें</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.webmgt.contentbrowser.warning@Asset Overridden">
@@ -1610,6 +2072,9 @@
              <tuv xml:lang="es">
                 <seg>El recurso '{0}' no se puede abrir porque ha sido abierto en otra sesión por un usuario Admin.</seg>
             </tuv>
+             <tuv xml:lang="hi">
+                <seg>संपत्ति '{0}' को खोला नहीं जा सकता क्योंकि इसे किसी व्यवस्थापक उपयोगकर्ता द्वारा किसी अन्य सत्र में खोला गया है।</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.webmgt.contentbrowser.warning@Asset Deleted">
             <prop type="sectionname" xml:lang="en-us">WebMgt</prop>
@@ -1619,6 +2084,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>El elemento '{0}' no se puede abrir porque se ha eliminado en otra sesión.</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>परिसंपत्ति '{0}' को खोला नहीं जा सकता क्योंकि इसे किसी अन्य सत्र में हटा दिया गया है।</seg>
             </tuv>
         </tu>
   <!-- New Asset Dialog -->
@@ -1631,6 +2099,9 @@
              <tuv xml:lang="es">
                 <seg>Nuevo Activo</seg>
             </tuv>
+             <tuv xml:lang="hi">
+                <seg>नई संपत्ति</seg>
+            </tuv>
         </tu>
 
       <tu tuid="perc.ui.newassetdialog.label@Select Asset Type">
@@ -1641,6 +2112,9 @@
             </tuv>
              <tuv xml:lang="es">
                 <seg>Seleccionar tipo de activo</seg>
+            </tuv>
+             <tuv xml:lang="hi">
+                <seg>संपत्ति का प्रकार चुनें</seg>
             </tuv>
         </tu>
 
@@ -1653,6 +2127,9 @@
             <tuv xml:lang="es">
                 <seg>Nombre del activo</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>संपत्ति का नाम</seg>
+            </tuv>
         </tu>
   <!-- New Site Dialog -->
       <tu tuid="perc.ui.newsitedialog.title@Create Site">
@@ -1663,6 +2140,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Crear sitio</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>साइट बनाएं</seg>
             </tuv>
         </tu>
       <!-- Labels -->
@@ -1675,6 +2155,9 @@
              <tuv xml:lang="es">
                 <seg>Nombre su sitio:</seg>
             </tuv>
+             <tuv xml:lang="hi">
+                <seg>अपनी साइट को नाम दें:</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.newsitedialog.label@URL:">
             <prop type="sectionname" xml:lang="en-us">New Site Dialog</prop>
@@ -1684,6 +2167,9 @@
             </tuv>
             <tuv xml:lang="es">
                 <seg>Ingrese la URL de la página desde el sitio existente:</seg>
+            </tuv>
+            <tuv xml:lang="hi">
+                <seg>मौजूदा साइट से पेज यूआरएल दर्ज करें:</seg>
             </tuv>
         </tu>
         <tu tuid="perc.ui.newsitedialog.label@Percussion Templates:">
@@ -1695,6 +2181,9 @@
             <tuv xml:lang="es">
                 <seg>Plantillas de Percussion:</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>पर्कशन टेम्पलेट्स:</seg>
+            </tuv>
         </tu>
          <tu tuid="perc.ui.newsitedialog.label@Selected Template">
             <prop type="sectionname" xml:lang="en-us">New Site Dialog</prop>
@@ -1705,6 +2194,9 @@
             <tuv xml:lang="es">
                 <seg>Plantilla seleccionada</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>चयनित टेम्पलेट</seg>
+            </tuv>
         </tu>
          <tu tuid="perc.ui.newsitedialog.label@Template Name:">
             <prop type="sectionname" xml:lang="en-us">New Site Dialog</prop>
@@ -1714,6 +2206,9 @@
             </tuv>
              <tuv xml:lang="es">
                 <seg>Nombre de la plantilla:</seg>
+            </tuv>
+             <tuv xml:lang="hi">
+                <seg>टेम्पलेट नाम:</seg>
             </tuv>
         </tu>
       <!-- Text -->
@@ -1726,6 +2221,9 @@
             <tuv xml:lang="es">
                 <seg>¿Qué te gustaría usar para una plantilla?</seg>
             </tuv>
+            <tuv xml:lang="hi">
+                <seg>आप टेम्पलेट के लिए क्या उपयोग करना चाहेंगे?</seg>
+            </tuv>
         </tu>
         <tu tuid="perc.ui.newsitedialog.text@Extract section names">
                     <prop type="sectionname" xml:lang="en-us">New Site Dialog</prop>
@@ -1736,6 +2234,9 @@
                     <tuv xml:lang="es">
                         <seg>Extraer nombres de secciones por parámetro de consulta</seg>
                     </tuv>
+                    <tuv xml:lang="hi">
+                        <seg>क्वेरी पैरामीटर द्वारा अनुभाग नाम निकालें</seg>
+                    </tuv>
                 </tu>
          <tu tuid="perc.ui.newsitedialog.text@page2 summary">
             <prop type="sectionname" xml:lang="en-us">New Site Dialog</prop>
@@ -1745,6 +2246,9 @@
             </tuv>
              <tuv xml:lang="es">
                 <seg>Seleccione una plantilla para su página principal.</seg>
+            </tuv>
+             <tuv xml:lang="hi">
+                <seg>अपने मुखपृष्ठ के लिए एक टेम्पलेट चुनें</seg>
             </tuv>
         </tu>
 
@@ -1759,6 +2263,9 @@
 	<tuv xml:lang="es">
 		<seg>Continuar</seg>
 	</tuv>
+	<tuv xml:lang="hi">
+		<seg>जारी रखना</seg>
+	</tuv>
 </tu>
 <tu tuid="perc.ui.deletesitedialog.warning@Title">
 	<prop type="sectionname" xml:lang="en-us">Delete Site</prop>
@@ -1768,6 +2275,9 @@
 	</tuv>
 	<tuv xml:lang="es">
 		<seg>Eliminar sitio</seg>
+	</tuv>
+	<tuv xml:lang="hi">
+		<seg>साइट हटाएँ</seg>
 	</tuv>
 </tu>
 <tu tuid="perc.ui.deletesiteedialog.warning@SiteTag">
@@ -1779,6 +2289,9 @@
 	<tuv xml:lang="es">
 		<seg>Sitio</seg>
 	</tuv>
+	<tuv xml:lang="hi">
+		<seg>साइट</seg>
+	</tuv>
 </tu>
 <tu tuid="perc.ui.deletesiteedialog.warning@SitePublishing">
 	<prop type="sectionname" xml:lang="en-us">Delete Site</prop>
@@ -1788,6 +2301,9 @@
 	</tuv>
 	<tuv xml:lang="en-us">
 		<seg>está publicando y no se puede eliminar en este momento.</seg>
+	</tuv>
+	<tuv xml:lang="hi">
+		<seg>प्रकाशित हो रहा है और इस समय हटाया नहीं जा सकता</seg>
 	</tuv>
 </tu>
 <tu tuid="perc.ui.deletesiteedialog.warning@dirtyConfirmSiteDelete">
@@ -1799,6 +2315,9 @@
 	<tuv xml:lang="es">
 		<seg>ste {0} contiene cambios no guardados que se perderán cuando se elimina el sitio.</seg>
 	</tuv>
+	<tuv xml:lang="hi">
+		<seg>इस {0} में सहेजे न गए परिवर्तन शामिल हैं जो साइट हटाए जाने पर खो जाएंगे</seg>
+	</tuv>
 </tu>
 <tu tuid="perc.ui.deletesiteedialog.warning@Continue?">
 	<prop type="sectionname" xml:lang="en-us">Delete Site</prop>
@@ -1809,6 +2328,9 @@
 	<tuv xml:lang="es">
 		<seg>Estás seguro de que quieres continuar?</seg>
 	</tuv>
+	<tuv xml:lang="hi">
+		<seg>क्या आप वाकई जारी रखना चाहते हैं?</seg>
+	</tuv>
 </tu>
 <tu tuid="perc.ui.deletesiteedialog.warning@GenericText">
 	<prop type="sectionname" xml:lang="en-us">Delete Site</prop>
@@ -1818,6 +2340,9 @@
 	</tuv>
 	<tuv xml:lang="es">
 		<seg>No se pudo eliminar en este momento.</seg>
+	</tuv>
+	<tuv xml:lang="hi">
+		<seg>इस समय हटाया नहीं जा सका</seg>
 	</tuv>
 </tu>
 <tu tuid="perc.ui.deletesitedialog.warning@Confirm">
@@ -1830,6 +2355,9 @@
         <seg>&lt;span id = 'perc-delete-dialog-warning'&gt;Advertencia:&lt;/span&gt; &lt;br\&gt; &lt;span id = 'perc-warning-red'&gt;Estás a punto de eliminar el sitio: '{0}' &lt;/span&gt;&lt;br\&gt;&lt;strong&gt;Todas las páginas, secciones, carpetas y plantillas de este sitio se eliminarán.&lt;br\&gt; &lt;br\&gt;&lt;/strong&gt; &lt;span id='perc-delete-warn-msg'&gt; Nota: eliminar '{0}' de CMS no eliminará el contenido del sitio publicado en '{0}' de su servidor web en directo.&lt;br\&gt; &lt;br\&gt; Por favor, compruebe &lt;a title='Software de Percussion -
 Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshelp.intsof.com&lt;/a&gt; Para obtener instrucciones sobre cómo eliminar todo el contenido del sitio en vivo antes de eliminar un sitio.&lt;/span&gt; </seg>
       </tuv>
+      <tuv xml:lang="hi">
+        <seg>&lt;span id = 'perc-delete-dialog-warning'&gt;चेतावनी:&lt;/span&gt; &lt;br\&gt; &lt;span id = 'perc-warning-red'&gt;आप साइट को हटाने वाले हैं: '{0}' &lt;/span&gt;&lt;br\&gt;&lt;strong&gt;सभी पृष्ठ, अनुभाग, फ़ोल्डर और टेम्पलेट इस साइट को हटा दिया जाएगा.&lt;br\&gt; &lt;br\&gt;&lt;/strong&gt; &lt;span id='perc-delete-warn-msg'&gt; ध्यान दें: सीएमएस से '{0}' को हटाने से आपके लाइव वेब सर्वर से '{0}' में प्रकाशित साइट सामग्री नहीं हटेगी।&lt;br\&gt; &lt;br\&gt; कृपया जांचें &lt;a title='Percussion Software - Documentation' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshelp.intsof.com&lt;/a&gt; किसी साइट को हटाने से पहले सभी लाइव साइट सामग्री को हटाने के निर्देशों के लिए।&lt;/span&gt; </seg>
+      </tuv>
   </tu>
 <tu tuid="perc.ui.deletesitedialog.warning@Processing">
 	<prop type="sectionname" xml:lang="en-us">Delete Site</prop>
@@ -1839,6 +2367,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	</tuv>
 	<tuv xml:lang="es">
 		<seg>Procesando .. por favor espere...</seg>
+	</tuv>
+	<tuv xml:lang="hi">
+		<seg>प्रसंस्करण किया जा रहा है .. कृपया प्रतीक्षा करें...</seg>
 	</tuv>
 </tu>
 
@@ -1852,6 +2383,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	<tuv xml:lang="es">
 		<seg>Activo</seg>
 	</tuv>
+	<tuv xml:lang="hi">
+		<seg>संपत्ति</seg>
+	</tuv>
 </tu>
 <tu tuid="perc.ui.deleteassetdialog.title@Delete Asset">
 	<prop type="sectionname" xml:lang="en-us">Delete Asset</prop>
@@ -1861,6 +2395,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	</tuv>
 	<tuv xml:lang="es">
 		<seg>Eliminar activos</seg>
+	</tuv>
+	<tuv xml:lang="hi">
+		<seg>संपत्ति हटाएं</seg>
 	</tuv>
 </tu>
 <tu tuid="perc.ui.deleteassetdialog.title@Recycle Asset">
@@ -1872,6 +2409,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	<tuv xml:lang="es">
 		<seg>Reciclar el activo</seg>
 	</tuv>
+	<tuv xml:lang="hi">
+		<seg>संपत्ति का पुनर्चक्रण करें</seg>
+	</tuv>
 </tu>
 <tu tuid="perc.ui.deleteassetdialog.warning@Open">
 	<prop type="sectionname" xml:lang="en-us">Delete Asset</prop>
@@ -1881,6 +2421,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	</tuv>
 	<tuv xml:lang="es">
 		<seg>El activo que ha seleccionado para eliminar está actualmente abierto para su edición por el usuario '{0}.' Para eliminar el activo, debe ser cerrado por ese usuario.</seg>
+	</tuv>
+	<tuv xml:lang="hi">
+		<seg>आपने जिस संपत्ति को हटाने के लिए चुना है वह वर्तमान में उपयोगकर्ता '{0}' द्वारा संपादन के लिए खुली है। संपत्ति को हटाने के लिए, इसे उस उपयोगकर्ता द्वारा बंद किया जाना चाहिए।</seg>
 	</tuv>
 </tu>
 <tu tuid="perc.ui.deleteassetdialog.warning@Confirm">
@@ -1892,6 +2435,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 		<tuv xml:lang="es">
 		<seg>¿Está seguro de que desea mover esta activo a la papelera de reciclaje?</seg>
 	</tuv>
+		<tuv xml:lang="hi">
+		<seg>क्या आप वाकई इस संपत्ति को रीसायकल बिन में ले जाना चाहते हैं?</seg>
+	</tuv>
 </tu>
 <tu tuid="perc.ui.deleteassetdialog.purge@Confirm">
 	<prop type="sectionname" xml:lang="en-us">Delete Asset</prop>
@@ -1902,6 +2448,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 		<tuv xml:lang="es">
 		<seg>El activo se eliminarÃ¡ de todas las pÃ¡ginas y se eliminarÃ¡ de forma permanente de la biblioteca de activos.</seg>
 	</tuv>
+		<tuv xml:lang="hi">
+		<seg>संपत्ति को सभी पृष्ठों से हटा दिया जाएगा और संपत्ति लाइब्रेरी से स्थायी रूप से हटा दिया जाएगा।</seg>
+	</tuv>
 </tu>
 <tu tuid="perc.ui.deleteassetdialog.warning@Not Authorized">
 	<prop type="sectionname" xml:lang="en-us">Delete Asset</prop>
@@ -1911,6 +2460,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	</tuv>
 	<tuv xml:lang="es">
 		<seg>No está autorizado a eliminar el elemento '{0}.'</seg>
+	</tuv>
+	<tuv xml:lang="hi">
+		<seg>आप संपत्ति '{0}' को हटाने के लिए अधिकृत नहीं हैं।</seg>
 	</tuv>
 </tu>
 <tu tuid="perc.ui.deleteassetdialog.warning@Recycle Folder Exists">
@@ -1924,6 +2476,11 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	<tuv xml:lang="es">
 		<seg>No está autorizado a eliminar el elemento '{0}.'</seg>
 	</tuv>
+	<tuv xml:lang="hi">
+		<seg>रीसायकल बिन में एक पथ है जो उसी पथ के साथ मौजूद है।
+                   इस आइटम या फ़ोल्डर को पुनर्चक्रित करने से पहले इस फ़ोल्डर को हटा दिया जाना चाहिए। वैकल्पिक
+                   पुनर्नवीनीकरण की जा रही वस्तु के फ़ोल्डर का नाम भी बदला जा सकता है। '{0}.'</seg>
+	</tuv>
 </tu>
 <tu tuid="perc.ui.deleteassetdialog.warning@Templates">
 	<prop type="sectionname" xml:lang="en-us">Delete Asset</prop>
@@ -1934,7 +2491,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	<tuv xml:lang="es">
 		<seg>'{0}' se utiliza en una o más plantillas y no se puede eliminar. Quítelo de las plantillas e inténtelo de nuevo.</seg>
 	</tuv>
-
+	<tuv xml:lang="hi">
+		<seg>'{0}' का उपयोग एक या अधिक टेम्पलेट्स पर किया जाता है और इसे हटाया नहीं जा सकता।  कृपया इसे उन टेम्पलेट्स से हटा दें और पुनः प्रयास करें।</seg>
+	</tuv>
 </tu>
 <tu tuid="perc.ui.deleteassetdialog.warning@Approved Pages">
 	<prop type="sectionname" xml:lang="en-us">Delete Asset</prop>
@@ -1944,6 +2503,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	</tuv>
 	<tuv xml:lang="es">
 		<seg>Advertencia: El elemento '{0}' se utiliza en las páginas Live, Pending o Quick Edit. Es posible que desee revisar esas páginas antes de eliminar el elemento.</seg>
+	</tuv>
+	<tuv xml:lang="hi">
+		<seg>चेतावनी: संपत्ति '{0}' का उपयोग लाइव, लंबित, या त्वरित संपादन पृष्ठों पर किया जाता है।  आप संपत्ति को हटाने से पहले उन पृष्ठों की समीक्षा करना चाह सकते हैं।</seg>
 	</tuv>
 </tu>
 <tu tuid="perc.ui.deleteassetdialog.warning@Approved Pages Checkbox">
@@ -1955,6 +2517,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	<tuv xml:lang="es">
 		<seg>Continúe eliminando el activo.</seg>
 	</tuv>
+	<tuv xml:lang="hi">
+		<seg>संपत्ति हटाना जारी रखें</seg>
+	</tuv>
 </tu>
 <tu tuid="perc.ui.deleteassetdialog.warning@GenericText">
 	<prop type="sectionname" xml:lang="en-us">Delete Asset</prop>
@@ -1965,6 +2530,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	<tuv xml:lang="es">
 		<seg>Se ha producido un error al intentar eliminar el elemento.</seg>
 	</tuv>
+	<tuv xml:lang="hi">
+		<seg>संपत्ति को हटाने का प्रयास करते समय एक त्रुटि उत्पन्न हुई।</seg>
+	</tuv>
 </tu>
 <tu tuid="perc.ui.deletedialog.warning@Dirty">
 	<prop type="sectionname" xml:lang="en-us">Delete</prop>
@@ -1974,6 +2542,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	</tuv>
 	<tuv xml:lang="es">
 		<seg>Para eliminar este {0}, se debe guardar el {1} ​​que se está editando.</seg>
+	</tuv>
+	<tuv xml:lang="hi">
+		<seg>इस {0} को हटाने के लिए, वर्तमान में संपादित किए जा रहे {1} को सहेजा जाना चाहिए।</seg>
 	</tuv>
 </tu>
 
@@ -1986,6 +2557,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	<tuv xml:lang="es">
 		<seg>Esta página contiene ediciones no guardadas. Todas las ediciones se perderán. ¿SEGUIR?</seg>
 	</tuv>
+	<tuv xml:lang="hi">
+		<seg>इस पृष्ठ में सहेजे न गए संपादन शामिल हैं. सभी संपादन नष्ट हो जायेंगे. जारी रखना?</seg>
+	</tuv>
 </tu>
 
 <tu tuid="perc.ui.navigatedialog.confirm@Unsaved Edits">
@@ -1996,6 +2570,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	</tuv>
 	<tuv xml:lang="es">
 		<seg>Ediciones sin guardar</seg>
+	</tuv>
+	<tuv xml:lang="hi">
+		<seg>सहेजे न गए संपादन</seg>
 	</tuv>
 </tu>
 
@@ -2008,6 +2585,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	<tuv xml:lang="es">
 		<seg>Eliminar página</seg>
 	</tuv>
+	<tuv xml:lang="hi">
+		<seg>पृष्ठ हटाएँ</seg>
+	</tuv>
 </tu>
 
 <tu tuid="perc.ui.closeEditor.question@Close Content Editor">
@@ -2018,6 +2598,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	</tuv>
 	<tuv xml:lang="es">
 		<seg>Está a punto de cancelar el contenido existente. ¿Desea continuar?</seg>
+	</tuv>
+	<tuv xml:lang="hi">
+		<seg>आप मौजूदा सामग्री को रद्द करने वाले हैं.  क्या आप जारी रखना चाहते हैं?</seg>
 	</tuv>
 </tu>
 
@@ -2030,6 +2613,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	<tuv xml:lang="es">
 		<seg>Advertencia</seg>
 	</tuv>
+	<tuv xml:lang="hi">
+		<seg>चेतावनी</seg>
+	</tuv>
 </tu>
 
 <tu tuid="perc.ui.deletepagedialog.title@Recycle Page">
@@ -2040,6 +2626,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	</tuv>
 	<tuv xml:lang="es">
 		<seg>reciclar la página</seg>
+	</tuv>
+	<tuv xml:lang="hi">
+		<seg>रीसायकल पेज</seg>
 	</tuv>
 </tu>
 
@@ -2052,6 +2641,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	<tuv xml:lang="es">
 		<seg>Página</seg>
 	</tuv>
+	<tuv xml:lang="hi">
+		<seg>पेज</seg>
+	</tuv>
 </tu>
 
 <tu tuid="perc.ui.deletepagedialog.warning@Open">
@@ -2062,6 +2654,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	</tuv>
 	<tuv xml:lang="es">
 		<seg>La página que ha seleccionado para eliminar está actualmente abierta para su edición por el usuario '{0}.' Para eliminar la página, debe ser cerrada por ese usuario.</seg>
+	</tuv>
+	<tuv xml:lang="hi">
+		<seg>आपने जिस पेज को हटाने के लिए चुना है वह वर्तमान में उपयोगकर्ता '{0}' द्वारा संपादन के लिए खुला है। पेज को हटाने के लिए, इसे उस उपयोगकर्ता द्वारा बंद किया जाना चाहिए।</seg>
 	</tuv>
 </tu>
 
@@ -2074,6 +2669,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	<tuv xml:lang="es">
 		<seg>¿Está seguro de que desea mover esta página a la papelera de reciclaje?</seg>
 	</tuv>
+	<tuv xml:lang="hi">
+		<seg>क्या आप वाकई इस पेज को रीसायकल बिन में ले जाना चाहते हैं?</seg>
+	</tuv>
 </tu>
 <tu tuid="perc.ui.deletepagedialog.purge@Confirm">
 	<prop type="sectionname" xml:lang="en-us">Delete Page</prop>
@@ -2083,6 +2681,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	</tuv>
 	<tuv xml:lang="es">
 		<seg>¿Estás seguro de que quieres eliminar esta página de forma permanente?</seg>
+	</tuv>
+	<tuv xml:lang="hi">
+		<seg>क्या आप वाकई इस पेज को स्थायी रूप से हटाना चाहते हैं?</seg>
 	</tuv>
 </tu>
 
@@ -2095,6 +2696,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	<tuv xml:lang="es">
 		<seg>Página de purga</seg>
 	</tuv>
+	<tuv xml:lang="hi">
+		<seg>पर्ज  पेज</seg>
+	</tuv>
 </tu>
 
 <tu tuid="perc.ui.restorepage@Label">
@@ -2105,6 +2709,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	</tuv>
 	<tuv xml:lang="es">
 		<seg>Restaurar página</seg>
+	</tuv>
+	<tuv xml:lang="hi">
+		<seg>पेज पुनर्स्थापित करें</seg>
 	</tuv>
 </tu>
 
@@ -2117,6 +2724,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
         <seg>Se ha producido un error al obtener las páginas que utilizan la plantilla.</seg>
     </tuv>
+      <tuv xml:lang="hi">
+        <seg>टेम्पलेट का उपयोग करने वाले पेज प्राप्त करते समय एक त्रुटि हुई।</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.sitetemplates.warning@Confirm">
@@ -2127,6 +2737,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	</tuv>
 	<tuv xml:lang="es">
 		<seg>¿Está seguro de que desea eliminar esta plantilla?</seg>
+	</tuv>
+	<tuv xml:lang="hi">
+		<seg>क्या आप वाकई इस टेम्पलेट को हटाना चाहते हैं?</seg>
 	</tuv>
 </tu>
 
@@ -2139,6 +2752,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	<tuv xml:lang="es">
 		<seg>Referenciado por</seg>
 	</tuv>
+	<tuv xml:lang="hi">
+		<seg>द्वारा संदर्भित</seg>
+	</tuv>
 </tu>
 <tu tuid="perc.ui.recycledPage@RecycledPage">
 	<prop type="sectionname" xml:lang="en-us">Recycled Page</prop>
@@ -2148,6 +2764,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	</tuv>
 	<tuv xml:lang="es">
 		<seg>Página reciclada</seg>
+	</tuv>
+	<tuv xml:lang="hi">
+		<seg>पुनर्चक्रित पेज</seg>
 	</tuv>
 </tu>
 <tu tuid="perc.ui.recycledPageWarning@RecycledPage">
@@ -2159,6 +2778,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
 	<tuv xml:lang="es">
 		<seg>No se puede editar esta página reciclada</seg>
 	</tuv>
+	<tuv xml:lang="hi">
+		<seg>इस पुनर्चक्रित पेज को संपादित नहीं किया जा सकता</seg>
+	</tuv>
 </tu>
 
 <tu tuid="perc.ui.deletepagedialog.warning@Not Authorized">
@@ -2169,6 +2791,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
    </tuv>
     <tuv xml:lang="es">
       <seg>No está autorizado a eliminar la página '{0}.'</seg>
+   </tuv>
+    <tuv xml:lang="hi">
+      <seg>आप '{0}' पेज को हटाने के लिए अधिकृत नहीं हैं।</seg>
    </tuv>
 </tu>
 
@@ -2183,6 +2808,11 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
       <seg>No está autorizado a eliminar la página '{0}.'</seg>
    </tuv>
+    <tuv xml:lang="hi">
+      <seg>रीसायकल बिन में एक पथ है जो उसी पथ के साथ मौजूद है।
+      इस आइटम या फ़ोल्डर को पुनर्चक्रित करने से पहले इस फ़ोल्डर को हटा दिया जाना चाहिए। वैकल्पिक
+      पुनर्नवीनीकरण की जा रही वस्तु के फ़ोल्डर का नाम भी बदला जा सकता है। '{0}.'</seg>
+   </tuv>
 </tu>
 
 <tu tuid="perc.ui.deletepagedialog.warning@Templates">
@@ -2193,6 +2823,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
    </tuv>
      <tuv xml:lang="e">
       <seg>'{0}' está dirigido por vínculos en una o más plantillas y no puede eliminarse. Edite las plantillas para eliminar los vínculos y vuelva a intentarlo.</seg>
+   </tuv>
+     <tuv xml:lang="hi">
+      <seg>'{0}' एक या अधिक टेम्प्लेट पर लिंक द्वारा लक्षित है और इसे हटाया नहीं जा सकता।  कृपया लिंक हटाने और पुनः प्रयास करने के लिए टेम्प्लेट संपादित करें।</seg>
    </tuv>
 </tu>
 
@@ -2205,6 +2838,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
    <tuv xml:lang="es">
       <seg>Advertencia: La página '{0}' está enlazada desde las páginas Live, Pending o Quick Edit que se encuentran en otra parte del sitio. Es posible que desee revisar esas páginas antes de eliminar la página.</seg>
    </tuv>
+   <tuv xml:lang="hi">
+      <seg>चेतावनी: पेज '{0}' साइट में अन्यत्र पाए जाने वाले लाइव, लंबित या त्वरित संपादन पृष्ठों से लिंक किया गया है।  पेज हटाने से पहले आप शायद उन पृष्ठों की समीक्षा करना चाहें।</seg>
+   </tuv>
 </tu>
 
 <tu tuid="perc.ui.deletepagedialog.warning@Approved Pages Checkbox">
@@ -2215,6 +2851,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
    </tuv>
    <tuv xml:lang="es">
       <seg>Continúe eliminando la página.</seg>
+   </tuv>
+   <tuv xml:lang="hi">
+      <seg>पेज हटाना जारी रखें.</seg>
    </tuv>
 </tu>
 
@@ -2228,6 +2867,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Sitio web seleccionado:</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>चयनित साइट:</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.deletesitecookiesdialog.warning@Confirm">
     <prop type="sectionname" xml:lang="en-us">Delete Cookies</prop>
@@ -2237,6 +2879,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Esto eliminará permensamente todas las entradas para el sitio web especificado.</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>यह निर्दिष्ट साइट के लिए सभी कुकी सहमति प्रविष्टियों को स्थायी रूप से हटा देगा।</seg>
     </tuv>
 </tu>
 <tu tuid="perc.ui.deletecookiesdialog.title@Delete Cookies">
@@ -2248,6 +2893,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Eliminar cookies</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>कुकी हटाएं</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.deletecookiesdialog.warning@Confirm">
     <prop type="sectionname" xml:lang="en-us">Delete Cookies</prop>
@@ -2258,6 +2906,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Esto eliminará permensamente todas las entradas del sistema.</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>यह सिस्टम से सभी कुकी सहमति प्रविष्टियों को स्थायी रूप से हटा देगा।</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.deletecookiesdialog.tag@Cookies">
     <prop type="sectionname" xml:lang="en-us">Delete Cookies</prop>
@@ -2267,6 +2918,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Consentimiento de cookie</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>कुकी सहमति</seg>
     </tuv>
 </tu>
 
@@ -2279,6 +2933,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>Nombre (requerido</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>नाम जरूरी</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.common.label@OK">
@@ -2289,6 +2946,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
      <tuv xml:lang="es">
         <seg>DE ACUERDO</seg>
+    </tuv>
+     <tuv xml:lang="hi">
+        <seg>ठीक है</seg>
     </tuv>
 </tu>
 
@@ -2301,6 +2961,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>Mostrar</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>दिखाओ</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.webmgt.pageeditor.menu@Hide">
@@ -2312,6 +2975,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Esconder</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>छिपाना</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.webmgt.pageeditor.menu@Metadata">
@@ -2322,6 +2988,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
       <tuv xml:lang="es">
         <seg>Metadatos</seg>
+    </tuv>
+      <tuv xml:lang="hi">
+        <seg>मेटाडाटा</seg>
     </tuv>
 </tu>
 
@@ -2335,6 +3004,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
         <seg>Revisiones</seg>
     </tuv>
+      <tuv xml:lang="hi">
+        <seg>संशोधन</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.menu@JavaScript Off">
     <prop type="sectionname" xml:lang="en-us">ui</prop>
@@ -2344,6 +3016,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
      <tuv xml:lang="es">
         <seg>Desactivar JavaScript</seg>
+    </tuv>
+     <tuv xml:lang="hi">
+        <seg>जावास्क्रिप्ट निष्क्रिय करें</seg>
     </tuv>
 </tu>
 <tu tuid="perc.ui.menu@JavaScript On">
@@ -2355,6 +3030,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Habilitar Javascript</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>जावास्क्रिप्ट सक्षम करें</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.finder.folder.purge@Title">
     <prop type="sectionname" xml:lang="en-us">WebMgt</prop>
@@ -2364,6 +3042,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Eliminar carpeta</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>फोल्डर हटा दें</seg>
     </tuv>
 </tu>
 
@@ -2376,6 +3057,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Recicla la carpeta</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>रीसायकल फ़ोल्डर </seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.finder.folder.delete@ConfirmAssets">
@@ -2386,6 +3070,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Recicla la carpeta '{0}', incluyendo todos los activos y subcarpetas?</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>सभी संपत्तियों और सबफ़ोल्डर्स सहित फ़ोल्डर '{0}' को रीसायकल करें?</seg>
     </tuv>
 </tu>
 
@@ -2398,6 +3085,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Eliminar la carpeta '{0}', incluyendo todos los activos y subcarpetas?</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>सभी परिसंपत्तियों और उपफ़ोल्डरों सहित फ़ोल्डर '{0}' हटाएं?</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.finder.folder.delete@WarningAssets">
@@ -2409,6 +3099,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>Advertencia: La carpeta '{0}' y su contenido se eliminarán y se colocarán en la Papelera de reciclaje.</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>चेतावनी: फ़ोल्डर '{0}' और उसकी सामग्री को हटा दिया जाएगा और रीसायकल बिन में डाल दिया जाएगा।</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.finder.folder.purge@WarningAssets">
@@ -2419,6 +3112,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
      <tuv xml:lang="es">
         <seg>Advertencia: Algunos contenidos de la carpeta '{0}' no se pueden eliminar.</seg>
+    </tuv>
+     <tuv xml:lang="hi">
+        <seg>चेतावनी: फ़ोल्डर '{0}' की कुछ सामग्री हटाई नहीं जा सकती</seg>
     </tuv>
 </tu>
 
@@ -2432,6 +3128,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
 	    <seg>Compruebe que estos activos no están abiertos por otros usuarios y que tiene permiso para eliminarlos.</seg>
     </tuv>
+    <tuv xml:lang="hi">
+	    <seg>सत्यापित करें कि ये संपत्तियाँ अन्य उपयोगकर्ताओं द्वारा नहीं खोली गई हैं और आपके पास उन्हें हटाने की अनुमति है।</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.finder.folder.delete@AssetInUseTemplates">
@@ -2442,6 +3141,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
      <tuv xml:lang="es">
 	    <seg>Una plantilla está utilizando uno o más de estos activos. Edite la plantilla para eliminarlos y vuelva a intentarlo.</seg>
+    </tuv>
+     <tuv xml:lang="hi">
+	    <seg>एक टेम्प्लेट इनमें से एक या अधिक संपत्तियों का उपयोग कर रहा है।  उन्हें हटाने और पुनः प्रयास करने के लिए टेम्पलेट संपादित करें।</seg>
     </tuv>
 </tu>
 
@@ -2454,6 +3156,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
 	    <seg>Uno o más de estos activos se utilizan en una página o páginas en los estados Live, Pending o Quick Edit. Estos activos se omitirán para que pueda revisar o editar esas páginas primero.</seg>
     </tuv>
+     <tuv xml:lang="hi">
+	    <seg>इनमें से एक या अधिक परिसंपत्तियों का उपयोग किसी पृष्ठ पर लाइव, लंबित, या त्वरित संपादन स्थितियों में किया जाता है। इन परिसंपत्तियों को छोड़ दिया जाएगा ताकि आप पहले उन पृष्ठों की समीक्षा या संपादन कर सकें।</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.finder.folder.delete@DeleteLiveAssets">
@@ -2464,6 +3169,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Eliminar activos de todos modos (los vínculos a estos activos se eliminarán en todas las páginas).</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>किसी भी तरह संपत्तियां हटाएं (इन संपत्तियों के लिंक सभी पृष्ठों से हटा दिए जाएंगे)।</seg>
     </tuv>
 </tu>
 
@@ -2476,6 +3184,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Reciclaje la carpeta '{0}', incluyendo todas las páginas y subcarpetas?</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>सभी पृष्ठों और उप-फ़ोल्डरों सहित फ़ोल्डर '{0}' को रीसायकल करें?</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.finder.folder.purge@ConfirmPages">
@@ -2486,6 +3197,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Reciclaje la carpeta '{0}', incluyendo todas las páginas y subcarpetas?</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>सभी पृष्ठों और उप-फ़ोल्डरों सहित फ़ोल्डर '{0}' को हटा दें?</seg>
     </tuv>
 </tu>
 
@@ -2498,6 +3212,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
          <seg>Advertencia: La carpeta '{0}' y su contenido se eliminarán y se colocarán en la Papelera de reciclaje.</seg>
     </tuv>
+    <tuv xml:lang="hi">
+         <seg>चेतावनी: फ़ोल्डर '{0}' और उसकी सामग्री को हटा दिया जाएगा और रीसायकल बिन में डाल दिया जाएगा।</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.finder.folder.purge@WarningPages">
@@ -2508,6 +3225,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Advertencia: Algunos contenidos de la carpeta '{0}' no se pueden eliminar.</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>चेतावनी: फ़ोल्डर '{0}' की कुछ सामग्री हटाई नहीं जा सकती</seg>
     </tuv>
 </tu>
 
@@ -2520,6 +3240,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
    <tuv xml:lang="es">
     <seg>Delete the folder '{0}' including all files and sub-folders?</seg>
   </tuv>
+   <tuv xml:lang="hi">
+    <seg>सभी फ़ाइलों और उप-फ़ोल्डरों सहित फ़ोल्डर '{0}' को हटा दें?</seg>
+  </tuv>
 </tu>
 
 <tu tuid="perc.ui.finder.fsfolder.delete@Warning">
@@ -2530,6 +3253,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
   </tuv>
   <tuv xml:lang="es">
     <seg>Algunos archivos o subcarpetas de la carpeta '{0}' no se pueden eliminar.</seg>
+  </tuv>
+  <tuv xml:lang="hi">
+    <seg>'{0}' फ़ोल्डर की कुछ फ़ाइलें या सबफ़ोल्डर हटाए नहीं जा सकते.</seg>
   </tuv>
 </tu>
 
@@ -2542,6 +3268,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
    <tuv xml:lang="es">
     <seg>Borrar archivo</seg>
   </tuv>
+   <tuv xml:lang="hi">
+    <seg>फ़ाइल नष्ट करें</seg>
+  </tuv>
 </tu>
 
 <tu tuid="perc.ui.finder.fsfile.delete@Filename">
@@ -2552,6 +3281,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
   </tuv>
   <tuv xml:lang="es">
     <seg>Archivo: '{0}'.</seg>
+  </tuv>
+  <tuv xml:lang="hi">
+    <seg>फ़ाइल: '{0}'.</seg>
   </tuv>
 </tu>
 
@@ -2564,6 +3296,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
    <tuv xml:lang="es">
     <seg>¿Estás seguro de que quieres eliminar este archivo?</seg>
   </tuv>
+   <tuv xml:lang="hi">
+    <seg>क्या आप द्वारा इस फाइल को हटाया जाना सुनिश्चित है?</seg>
+  </tuv>
 </tu>
 
 <tu tuid="perc.ui.finder.fsfile.delete@Warning">
@@ -2574,6 +3309,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
   </tuv>
    <tuv xml:lang="es">
     <seg>¿Estás seguro de que quieres eliminar este archivo?</seg>
+  </tuv>
+   <tuv xml:lang="hi">
+    <seg>क्या आप द्वारा इस फाइल को हटाया जाना सुनिश्चित है?</seg>
   </tuv>
 </tu>
 
@@ -2586,6 +3324,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
 	    <seg>Verifique que estas páginas no estén abiertas por otros usuarios y que tenga permiso para eliminarlas.</seg>
     </tuv>
+     <tuv xml:lang="hi">
+	    <seg>सत्यापित करें कि ये पेज अन्य उपयोगकर्ताओं द्वारा नहीं खोले गए हैं और आपके पास इन्हें हटाने की अनुमति है।</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.finder.folder.delete@PageInUseTemplates">
@@ -2596,6 +3337,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
       <tuv xml:lang="es">
 	    <seg>Una o más de estas páginas están orientadas por enlaces en plantillas. Edite las plantillas para quitar los vínculos y vuelva a intentarlo.</seg>
+    </tuv>
+      <tuv xml:lang="hi">
+	    <seg>इनमें से एक या अधिक पेज टेम्प्लेट पर लिंक द्वारा लक्षित हैं।  लिंक हटाने और पुनः प्रयास करने के लिए टेम्पलेट संपादित करें।</seg>
     </tuv>
 </tu>
 
@@ -2608,6 +3352,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
 	    <seg>Una o más de estas páginas están enlazadas desde las páginas Live, Pending o Quick Edit que se encuentran en otra parte del sitio. Estas páginas se omitirán para que pueda revisarlas o editarlas primero.</seg>
     </tuv>
+      <tuv xml:lang="hi">
+	    <seg>इनमें से एक या अधिक पेज साइट पर अन्यत्र पाए जाने वाले लाइव, लंबित या त्वरित संपादन पृष्ठों से जुड़े हुए हैं।  इन पेजों को छोड़ दिया जाएगा ताकि आप पहले उन लाइव पेजों की समीक्षा या संपादन कर सकें।</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.finder.folder.delete@DeleteLinkedPages">
@@ -2618,6 +3365,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
      <tuv xml:lang="es">
         <seg>Eliminar páginas vinculadas de todos modos (enlaces en vivo se eliminarán).</seg>
+    </tuv>
+     <tuv xml:lang="hi">
+        <seg>किसी भी तरह लिंक किए गए पेज हटाएं (लाइव लिंक हटा दिए जाएंगे)।</seg>
     </tuv>
 </tu>
 
@@ -2630,6 +3380,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
         <seg>Eliminar sección</seg>
     </tuv>
+      <tuv xml:lang="hi">
+        <seg>अनुभाग हटाएँ</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.finder.section.delete@Confirm">
@@ -2640,6 +3393,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Elimina la sección '{0}' incluyendo todas las páginas, subsecciones, enlaces de sección y subcarpetas?</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>सभी पेजों, उपखंडों, अनुभाग लिंक और उपफ़ोल्डरों सहित अनुभाग '{0}' को हटा दें?</seg>
     </tuv>
 </tu>
 
@@ -2652,6 +3408,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Advertencia: algunas páginas de la sección '{0}' no se pueden eliminar</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>चेतावनी: '{0}' अनुभाग के कुछ पेज हटाए नहीं जा सकते।</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.finder.folder.delete@AllContentDeleted">
@@ -2662,6 +3421,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
       <tuv xml:lang="es">
         <seg>Todo el contenido de esta carpeta se eliminará.</seg>
+    </tuv>
+      <tuv xml:lang="hi">
+        <seg>इस फ़ोल्डर की सभी सामग्री हटा दी जाएगी</seg>
     </tuv>
 </tu>
 
@@ -2674,6 +3436,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
         <seg>No se puede mover {0} '{1}' a la carpeta '{2}' porque ya existe un objeto con el mismo nombre en la carpeta.</seg>
     </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0} '{1}' को फ़ोल्डर '{2}' में नहीं ले जाया जा सकता क्योंकि फ़ोल्डर में समान नाम वाला ऑब्जेक्ट पहले से मौजूद है।</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.saveasdialog.title@New Folder">
@@ -2684,6 +3449,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
       <tuv xml:lang="es">
         <seg>Nueva Carpeta</seg>
+    </tuv>
+      <tuv xml:lang="hi">
+        <seg>नया फ़ोल्डर</seg>
     </tuv>
 </tu>
 
@@ -2696,6 +3464,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>Un activo con ese nombre ya existe</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>इस नाम की एक संपत्ति पहले से मौजूद है</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.saveasdialog.error@Duplicate folder">
@@ -2706,6 +3477,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>La carpeta ya existe</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>फ़ोल्डर पहले से मौजूद है</seg>
     </tuv>
 </tu>
 
@@ -2718,6 +3492,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Introduzca el nombre de la nueva carpeta</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>नया फ़ोल्डर नाम दर्ज करें</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.saveasdialog.title@Save As">
@@ -2728,6 +3505,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Guardar como</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>के रूप रक्षित करें</seg>
     </tuv>
 </tu>
 
@@ -2740,6 +3520,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Página seleccionada:</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>चयनित पेज:</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.saveasdialog.label@Location:">
@@ -2750,6 +3533,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
    <tuv xml:lang="es">
         <seg>Ubicación:</seg>
+    </tuv>
+   <tuv xml:lang="hi">
+        <seg>जगह:</seg>
     </tuv>
 </tu>
 
@@ -2762,6 +3548,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>Guardar como</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>के रूप रक्षित करें</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.saveasdialog.label@Shared Asset">
@@ -2772,6 +3561,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
    <tuv xml:lang="es">
         <seg>Activo compartido</seg>
+    </tuv>
+   <tuv xml:lang="hi">
+        <seg>साझा संपत्ति</seg>
     </tuv>
 </tu>
 
@@ -2784,6 +3576,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Guardar como activo compartido</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>साझा संपत्ति के रूप में सहेजें</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.saveassharedassetdialog.label@Name:">
@@ -2794,6 +3589,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Nombre:</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>नाम:</seg>
     </tuv>
 </tu>
 
@@ -2806,6 +3604,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
         <seg>Dónde:</seg>
     </tuv>
+      <tuv xml:lang="hi">
+        <seg>कहाँ:</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.saveassharedassetdialog.errormessage@Asset Name is required.">
@@ -2816,6 +3617,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>El nombre del activo es obligatorio.</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>संपत्ति का नाम आवश्यक है</seg>
     </tuv>
 </tu>
 
@@ -2828,6 +3632,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Se requiere ruta seleccionada.</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>चयनित पथ आवश्यक है</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.saveassharedassetdialog.errormessage@You do not have permission to create an asset here.">
@@ -2838,6 +3645,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>No tiene permiso para crear un activo aquí.</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>आपको यहां संपत्ति बनाने की अनुमति नहीं है।</seg>
     </tuv>
 </tu>
 
@@ -2850,6 +3660,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
         <seg>No está autorizado para crear un nuevo activo.</seg>
     </tuv>
+      <tuv xml:lang="hi">
+        <seg>आप नई संपत्ति बनाने के लिए अधिकृत नहीं हैं।</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.saveassharedassetdialog.errormessage@An asset with the same name already exists.">
@@ -2861,7 +3674,10 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Ya existe un activo con el mismo nombre.</seg>
     </tuv>
-</tu>.
+    <tuv xml:lang="hi">
+        <seg>इसी नाम की एक संपत्ति पहले से मौजूद है।</seg>
+    </tuv>
+</tu>
 
 <tu tuid="perc.ui.webmgt.pageeditor.menu@Layout">
     <prop type="sectionname" xml:lang="en-us">WebMgt</prop>
@@ -2871,6 +3687,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Diseño</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>लेआउट</seg>
     </tuv>
 </tu>
 
@@ -2883,6 +3702,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>Nueva pagina</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>नया पेज</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.newpagedialog.label@Page name">
@@ -2893,6 +3715,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Nombre del archivo</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>फ़ाइल का नाम</seg>
     </tuv>
 </tu>
 
@@ -2905,6 +3730,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Título de la página</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>पेज का शीर्षक</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.newpagedialog.label@SEO">
@@ -2915,6 +3743,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>SEO</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>एसईओ</seg>
     </tuv>
 </tu>
 
@@ -2927,6 +3758,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
         <seg>Mostrar título (texto del enlace)</seg>
     </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रदर्शन शीर्षक (लिंक टेक्स्ट)</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.newblogpostdialog.title@New Post">
@@ -2937,6 +3771,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
      <tuv xml:lang="es">
         <seg>Nueva publicación</seg>
+    </tuv>
+     <tuv xml:lang="hi">
+        <seg>नई पोस्ट</seg>
     </tuv>
 </tu>
 
@@ -2949,6 +3786,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Título de la entrada</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>शीर्षक पोस्ट करें</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.newblogpostdialog.label@Post name">
@@ -2959,6 +3799,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Nombre del puesto</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>पोस्ट नाम</seg>
     </tuv>
 </tu>
 
@@ -2971,6 +3814,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
        <tuv xml:lang="es">
         <seg>Seleccione una plantilla</seg>
     </tuv>
+       <tuv xml:lang="hi">
+        <seg>एक टेम्पलेट चुनें</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.newpagedialog.label@Page Meta Data">
@@ -2981,6 +3827,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
       <tuv xml:lang="es">
         <seg>Metadatos de página</seg>
+    </tuv>
+      <tuv xml:lang="hi">
+        <seg>पेज मेटाडेटा</seg>
     </tuv>
 </tu>
 
@@ -2993,6 +3842,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Página de destino de navegación</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>नेविगेशन लैंडिंग पेज</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.newpagedialog.label@Identification And Navigation">
@@ -3004,6 +3856,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Identificación &amp; Navegación</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>पहचान &amp; मार्गदर्शन</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.newpagedialog.label@Page Link Title">
@@ -3014,6 +3869,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Título del enlace de página</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>पेज लिंक शीर्षक</seg>
     </tuv>
 </tu>
 
@@ -3028,6 +3886,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>Nueva sección</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>नया अनुभाग</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.newSectionDialog.label@URL">
@@ -3039,6 +3900,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
         <seg>Nombre de la sección</seg>
     </tuv>
+      <tuv xml:lang="hi">
+        <seg>अनुभाग का नाम</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.newSectionDialog.label@Type">
     <prop type="sectionname" xml:lang="en-us">New Section Dialog</prop>
@@ -3048,6 +3912,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
      <tuv xml:lang="es">
         <seg>Tipo</seg>
+    </tuv>
+     <tuv xml:lang="hi">
+        <seg>प्रकार</seg>
     </tuv>
 </tu>
 <tu tuid="perc.ui.newSectionDialog.label@Section &amp; landing page">
@@ -3059,6 +3926,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Sección &amp; página de destino</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>अनुभाग &amp; लैंडिंग  पेज</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.newSectionDialog.label@Section link">
     <prop type="sectionname" xml:lang="en-us">New Section Dialog</prop>
@@ -3068,6 +3938,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
       <tuv xml:lang="es">
         <seg>Enlace de sección</seg>
+    </tuv>
+      <tuv xml:lang="hi">
+        <seg>अनुभाग लिंक</seg>
     </tuv>
 </tu>
 <tu tuid="perc.ui.newSectionDialog.label@External link">
@@ -3079,6 +3952,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
         <seg>Enlace externo</seg>
     </tuv>
+      <tuv xml:lang="hi">
+        <seg>बाहरी लिंक</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.newSectionDialog.label@Target section">
     <prop type="sectionname" xml:lang="en-us">New Section Dialog</prop>
@@ -3088,6 +3964,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Sección de destino</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>टार्गेट भाग</seg>
     </tuv>
 </tu>
 <tu tuid="perc.ui.newSectionDialog.label@External link text">
@@ -3099,6 +3978,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Texto del enlace externo</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>बाहरी लिंक टेक्स्ट</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.newSectionDialog.label@External link URL">
     <prop type="sectionname" xml:lang="en-us">New Section Dialog</prop>
@@ -3108,6 +3990,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
       <tuv xml:lang="es">
         <seg>URL del enlace externo</seg>
+    </tuv>
+      <tuv xml:lang="hi">
+        <seg>बाहरी लिंक यूआरएल</seg>
     </tuv>
 </tu>
 <tu tuid="perc.ui.newSectionDialog.label@Target Section">
@@ -3119,6 +4004,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
         <seg>Sección de destino</seg>
     </tuv>
+      <tuv xml:lang="hi">
+        <seg>टार्गेट भाग</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.newSectionDialog.label@Select target section">
     <prop type="sectionname" xml:lang="en-us">New Section Dialog</prop>
@@ -3128,6 +4016,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
      <tuv xml:lang="es">
         <seg>Seleccionar la sección de destino</seg>
+    </tuv>
+     <tuv xml:lang="hi">
+        <seg>लक्ष्य अनुभाग चुनें</seg>
     </tuv>
 </tu>
 <tu tuid="perc.ui.editSectionDialog.label@Target window">
@@ -3139,6 +4030,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Ventana de destino</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>लक्ष्य विंडो</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.editSectionDialog.label@New window">
     <prop type="sectionname" xml:lang="en-us">New Section Dialog</prop>
@@ -3148,6 +4042,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Nueva ventana</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>नई विन्डो</seg>
     </tuv>
 </tu>
 <tu tuid="perc.ui.editSectionDialog.label@Top window">
@@ -3159,6 +4056,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>Ventana superior</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>टॉप विन्डो</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.editSectionDialog.label@Parent window">
     <prop type="sectionname" xml:lang="en-us">New Section Dialog</prop>
@@ -3168,6 +4068,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Ventana principal</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>मूल विन्डो</seg>
     </tuv>
 </tu>
 <tu tuid="perc.ui.editSectionDialog.label@Same window">
@@ -3179,6 +4082,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>La misma ventana</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>सेम विन्डो</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.editSectionDialog.label@Navigation class names">
     <prop type="sectionname" xml:lang="en-us">Navigation class names</prop>
@@ -3189,6 +4095,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
         <seg>Nombres de clases de navegación</seg>
     </tuv>
+      <tuv xml:lang="hi">
+        <seg>नेविगेशन वर्ग के नाम</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.sitemap.editsectionlink.dlgtitle@Edit Section Link">
     <prop type="sectionname" xml:lang="en-us">Site Map View</prop>
@@ -3198,6 +4107,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Editar sección Enlace</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>अनुभाग लिंक संपादित करें</seg>
     </tuv>
 </tu>
 
@@ -3210,6 +4122,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Editar enlace externo</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>बाहरी लिंक संपादित करें</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.sitemap.duplicatesection@Duplicate section not allowed">
@@ -3220,6 +4135,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Sección y un enlace a él o enlaces de sección duplicados en el mismo nivel no están permitidos.</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>अनुभाग और उससे लिंक या समान स्तर पर डुप्लिकेट अनुभाग लिंक की अनुमति नहीं है।</seg>
     </tuv>
 </tu>
 
@@ -3232,7 +4150,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Seleccione una plantilla</seg>
     </tuv>
-
+    <tuv xml:lang="hi">
+        <seg>एक टेम्पलेट चुनें</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.newSectionDialog.label@Identification And Navigation">
@@ -3243,6 +4163,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
    	<tuv xml:lang="es">
         <seg>Identificación &amp; Navegación</seg>
+    </tuv>
+   	<tuv xml:lang="hi">
+        <seg>पहचान &amp; मार्गदर्शन</seg>
     </tuv>
 </tu>
 
@@ -3255,6 +4178,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
         <seg>Mostrar título (texto del enlace)</seg>
     </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रदर्शन शीर्षक (लिंक टेक्स्ट)</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.newSectionDialog.message@deleteConfirm">
@@ -3265,6 +4191,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
        <seg>¿Eliminar la sección '{0}' de la navegación?\n\nEl contenido de la sección se eliminará en la carpeta '{0}'.\n\n¿Continuar?</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+       <seg>नेविगेशन से अनुभाग '{0}' हटाएं?\n\nअनुभाग की सामग्री फ़ोल्डर '{0}' में हटा दी जाएगी।\n\nजारी रखें?</seg>
     </tuv>
 </tu>
 
@@ -3279,6 +4208,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Preferencias de sección</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>अनुभाग प्राथमिकताएँ</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.editSectionDialog.label@Requires Log in">
@@ -3289,6 +4221,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Requiere iniciar sesión</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>लॉग इन की आवश्यकता है</seg>
     </tuv>
 </tu>
 
@@ -3301,6 +4236,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Permitir acceso a: (ingrese nombres de grupo)</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>इस तक पहुंच की अनुमति दें: (समूह नाम दर्ज करें)</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.editSectionDialog.label@Please use a comma to separate each group name">
@@ -3311,6 +4249,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>(Utilice una coma para separar cada nombre de grupo)</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>(कृपया प्रत्येक समूह के नाम को अलग करने के लिए अल्पविराम का उपयोग करें)</seg>
     </tuv>
 </tu>
 
@@ -3324,6 +4265,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Todos los usuarios pueden</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>सभी उपयोगकर्ता कर सकते हैं</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.folderPropsDialog.label@Name">
     <prop type="sectionname" xml:lang="en-us">Folder Properties Dialog</prop>
@@ -3333,6 +4277,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
      <tuv xml:lang="es">
         <seg>Nombre</seg>
+    </tuv>
+     <tuv xml:lang="hi">
+        <seg>नाम</seg>
     </tuv>
 </tu>
 <tu tuid="perc.ui.folderPropsDialog.title@Folder Properties">
@@ -3344,6 +4291,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Propiedades de la carpeta</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>फ़ोल्डर प्रापर्टी</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.folderPropsDialog.title@User Properties">
     <prop type="sectionname" xml:lang="en-us">Folder Properties Dialog</prop>
@@ -3353,6 +4303,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Estos usuarios también pueden</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>ये उपयोगकर्ता भी हो सकते हैं</seg>
     </tuv>
 </tu>
 <tu tuid="perc.ui.rolePropsDialog.title@Role Properties">
@@ -3364,6 +4317,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Los usuarios de estas funciones pueden:</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>इन भूमिकाओं में उपयोगकर्ता ये कर सकते हैं:</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.rolePropsDialog.title@Role Staging Actions">
     <prop type="sectionname" xml:lang="en-us">Role Properties</prop>
@@ -3373,6 +4329,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
      <tuv xml:lang="es">
         <seg>Publicar a petición para la puesta en escena</seg>
+    </tuv>
+     <tuv xml:lang="hi">
+        <seg>स्टेजिंग के लिए ऑन-डिमांड प्रकाशित करें</seg>
     </tuv>
 </tu>
 <tu tuid="perc.ui.rolePropsDialog.title@Enter a role">
@@ -3384,6 +4343,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Introducir un rol</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>रोल दर्ज करें</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.rolePropsDialog.title@Add User">
     <prop type="sectionname" xml:lang="en-us">Role Properties</prop>
@@ -3393,6 +4355,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Agregar usuario</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>उपयोगकर्ता जोड़ें</seg>
     </tuv>
 </tu>
 <tu tuid="perc.ui.folderPropsDialog.inputField@Enter a username">
@@ -3404,6 +4369,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Introduzca un nombre de usuario</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>उपयोगकर्ता नाम दर्ज करें</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.folderPropsDialog.permissionValue@Read">
     <prop type="sectionname" xml:lang="en-us">Folder Properties Dialog</prop>
@@ -3413,6 +4381,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
      <tuv xml:lang="es">
         <seg>Leer (utilizar contenido, pero no modificarlo, agregarlo ni eliminarlo)</seg>
+    </tuv>
+     <tuv xml:lang="hi">
+        <seg>पढ़ें (सामग्री का उपयोग करें, लेकिन उसे संशोधित, जोड़ें या हटाएं नहीं)</seg>
     </tuv>
 </tu>
 <tu tuid="perc.ui.folderPropsDialog.permissionValue@Write">
@@ -3424,6 +4395,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Escribir (modificar, añadir, eliminar y usar contenido)</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>लिखें (सामग्री को संशोधित करें, जोड़ें, हटाएं और उपयोग करें)</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.folderPropsDialog.permissionValue@Admin">
     <prop type="sectionname" xml:lang="en-us">Folder Properties Dialog</prop>
@@ -3433,6 +4407,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
    <tuv xml:lang="es">
         <seg>Administrar (administrar carpeta, leer y escribir contenido)</seg>
+    </tuv>
+   <tuv xml:lang="hi">
+        <seg>व्यवस्थापन करें (फ़ोल्डर प्रबंधित करें, सामग्री पढ़ें और लिखें)</seg>
     </tuv>
 </tu>
 
@@ -3447,6 +4424,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>Nivel 1 (Superior)</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>स्तर 1 (शीर्ष)</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.sitemap.label@Level">
@@ -3457,6 +4437,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Nivel {0}</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>स्तर {0}</seg>
     </tuv>
 </tu>
 
@@ -3469,6 +4452,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Añadir sección</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>अनुभाग जोड़ें</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.sitemap.tooltip@Configure Section">
@@ -3479,6 +4465,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Configurar la sección</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>अनुभाग कॉन्फ़िगर करें</seg>
     </tuv>
 </tu>
 
@@ -3491,6 +4480,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Quitar sección de Navegación</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>नेविगेशन से अनुभाग हटाएँ</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.sitemap.menuitem@Move Section">
@@ -3502,6 +4494,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
         <seg>Mover la sección</seg>
      </tuv>
+      <tuv xml:lang="hi">
+        <seg>मूव सेक्शन</seg>
+     </tuv>
 </tu>
 <tu tuid="perc.ui.sitemap.movesection.title@Move Section">
     <prop type="sectionname" xml:lang="en-us">Site Map View</prop>
@@ -3511,6 +4506,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Mover la sección</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>मूव सेक्शन</seg>
     </tuv>
 </tu>
 
@@ -3523,6 +4521,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>&lt;p&gt;Seleccione una nueva ubicación para la sección &amp;lt;{0}&amp;gt;&lt;/p&gt;</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>&lt;p&gt;अनुभाग के लिए एक नया स्थान चुनें &amp;lt;{0}&amp;gt;&lt;/p&gt;</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.sitemap.assign.landing.page.title@Landing Page Assigned">
@@ -3534,6 +4535,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
         <seg>Página de destino asignada</seg>
     </tuv>
+      <tuv xml:lang="hi">
+        <seg>लैंडिंग पेज असाइन किया गया</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.sitemap.assign.landing.page.label@message">
@@ -3544,6 +4548,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
    <tuv xml:lang="es">
         <seg>La página '{0}' es la nueva página de destino para la sección '{1}' y ahora se denomina '{2}'. La página original ahora se llama '{3}'. Ambas páginas se encuentran en '{4}'.</seg>
+    </tuv>
+   <tuv xml:lang="hi">
+        <seg>पेज '{0}' अनुभाग '{1}' के लिए नया लैंडिंग पेज है और अब इसे '{2}' नाम दिया गया है। मूल पेज को अब '{3}' नाम दिया गया है। दोनों पेज '{4}' पर स्थित हैं।</seg>
     </tuv>
 </tu>
 
@@ -3558,6 +4565,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>Preferencias de sitio</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>साइट प्रेफरन्स</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.editSiteSectionDialog.label@Site hostname">
@@ -3568,6 +4578,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
      <tuv xml:lang="es">
         <seg>Nombre de host del sitio</seg>
+    </tuv>
+     <tuv xml:lang="hi">
+        <seg>साइट होस्टनाम</seg>
     </tuv>
 </tu>
 
@@ -3580,6 +4593,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>Página de inicio enlace texto</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>होम पेज लिंक टेक्स्ट</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.editSiteSectionDialog.label@Description">
@@ -3590,6 +4606,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
      <tuv xml:lang="es">
         <seg>Descripción</seg>
+    </tuv>
+     <tuv xml:lang="hi">
+        <seg>विवरण</seg>
     </tuv>
 </tu>
 
@@ -3602,6 +4621,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Nombres de clases de navegación</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>नेविगेशन वर्ग के नाम</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.editSiteSectionDialog.label@Default file extension">
@@ -3612,6 +4634,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Extensión de archivo predeterminada</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>डिफ़ॉल्ट फ़ाइल एक्सटेंशन</seg>
     </tuv>
 </tu>
 
@@ -3624,6 +4649,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>Generar URLs canónicas. Utilice las teclas de flecha para alternar entre las opciones.</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>कैनोनिकल यूआरएल उत्पन्न करें। विकल्पों के बीच टॉगल करने के लिए एरो कीज़ का उपयोग करें।</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.editSiteSectionDialog.label@Enable Mobile Preview">
@@ -3635,6 +4663,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>Habilitar vista previa móvil</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>मोबाइल पूर्वावलोकन सक्षम करें</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.editSiteSectionDialog.label@Protocol">
     <prop type="sectionname" xml:lang="en-us">Protocol</prop>
@@ -3644,6 +4675,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Protocolo</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>प्रोटोकॉल</seg>
     </tuv>
 </tu>
 
@@ -3656,6 +4690,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Documento predeterminado</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>डिफ़ॉल्ट दस्तावेज़</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.editSiteSectionDialog.label@Generate sitemap">
@@ -3666,6 +4703,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Generar mapa del sitio</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>पूर्ण प्रकाशन पर साइटमैप जनरेट करें</seg>
     </tuv>
 </tu>
 
@@ -3678,6 +4718,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>Secciones</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>अनुभाग</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.editSiteSectionDialog.label@Landing Pages">
@@ -3688,6 +4731,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Páginas de destino</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>लैंडिंग पेज</seg>
     </tuv>
 </tu>
 
@@ -3700,6 +4746,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>Reemplazar las etiquetas canónicas existentes si están presentes</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>यदि मौजूदा कैनोनिकल टैग मौजूद हैं तो उन्हें बदलें</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.editSiteSectionDialog.label@Use site security">
@@ -3710,6 +4759,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
      <tuv xml:lang="es">
         <seg>Usar la seguridad del sitio</seg>
+    </tuv>
+     <tuv xml:lang="hi">
+        <seg>साइट सुरक्षा का उपयोग करें</seg>
     </tuv>
 </tu>
 
@@ -3722,6 +4774,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>Página de inicio de sesión</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>लोग इन वाला पेज</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.editSiteSectionDialog.label@Error page">
@@ -3732,6 +4787,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
       <tuv xml:lang="es">
         <seg>Página de error</seg>
+    </tuv>
+      <tuv xml:lang="hi">
+        <seg>त्रुटि पेज</seg>
     </tuv>
 </tu>
 
@@ -3744,6 +4802,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
         <seg>Página de registro</seg>
     </tuv>
+      <tuv xml:lang="hi">
+        <seg>पंजीकरण पेज</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.editSiteSectionDialog.label@Password reset request page">
@@ -3754,6 +4815,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>Página de solicitud de restablecimiento de contraseña</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>पासवर्ड रीसेट अनुरोध पेज</seg>
     </tuv>
 </tu>
 
@@ -3766,6 +4830,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Página de restablecimiento de contraseña</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>पासवर्ड रीसेट पेज</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.editSiteSectionDialog.label@Confirmation page">
@@ -3776,6 +4843,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
       <tuv xml:lang="es">
         <seg>Página de confirmación</seg>
+    </tuv>
+      <tuv xml:lang="hi">
+        <seg>पुष्टिकरण पेज</seg>
     </tuv>
 </tu>
 
@@ -3788,6 +4858,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>Sitio</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>साइट</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.editSiteSectionDialog.label@Users">
@@ -3798,6 +4871,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
      <tuv xml:lang="es">
         <seg>Usuarios</seg>
+    </tuv>
+     <tuv xml:lang="hi">
+        <seg>उपयोगकर्ताओं</seg>
     </tuv>
 </tu>
 
@@ -3810,6 +4886,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
      <tuv xml:lang="es">
         <seg>Seguridad</seg>
     </tuv>
+     <tuv xml:lang="hi">
+        <seg>सुरक्षा</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.editSiteSectionDialog.label@Membership">
@@ -3820,6 +4899,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
       <tuv xml:lang="es">
         <seg>Afiliación</seg>
+    </tuv>
+      <tuv xml:lang="hi">
+        <seg>सदस्यता</seg>
     </tuv>
 </tu>
 <!-- Revisions Dialog -->
@@ -3832,6 +4914,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
         <seg>Revisiones</seg>
     </tuv>
+      <tuv xml:lang="hi">
+        <seg>संशोधन</seg>
+    </tuv>
 </tu>
 
 <tu tuid="perc.ui.revisionDialog.tooltip@Restorable">
@@ -3843,6 +4928,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     <tuv xml:lang="es">
         <seg>Restaurar esta revisión</seg>
     </tuv>
+    <tuv xml:lang="hi">
+        <seg>इस संशोधन को पुनर्स्थापित करें</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.revisionDialog.tooltip@NotRestorable">
     <prop type="sectionname" xml:lang="en-us">WebMgt</prop>
@@ -3852,6 +4940,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
     <tuv xml:lang="es">
         <seg>El estado de este {0} impide la restauración de revisiones anteriores</seg>
+    </tuv>
+    <tuv xml:lang="hi">
+        <seg>इस {0} की स्थिति पहले के संशोधनों को पुनर्स्थापित करने से रोकती है</seg>
     </tuv>
 </tu>
 <tu tuid="perc.ui.revisionDialog.tooltip@PreviewRevision">
@@ -3863,6 +4954,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
         <seg>Vista previa de esta revisión</seg>
     </tuv>
+      <tuv xml:lang="hi">
+        <seg>इस संशोधन का पूर्वावलोकन करें</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.revisionDialog.compare@compareRevisions">
     <prop type="sectionname" xml:lang="en-us">WebMgt</prop>
@@ -3872,6 +4966,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
     </tuv>
       <tuv xml:lang="es">
         <seg>Comparar revisiones</seg>
+    </tuv>
+      <tuv xml:lang="hi">
+        <seg>संशोधनों की तुलना करें</seg>
     </tuv>
 </tu>
 <tu tuid="perc.ui.revisionDialog.highContrast@High Contrast">
@@ -3883,6 +4980,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
       <tuv xml:lang="es">
         <seg>Alto contraste</seg>
     </tuv>
+      <tuv xml:lang="hi">
+        <seg>हाई कॉन्ट्रास्ट</seg>
+    </tuv>
 </tu>
 <tu tuid="perc.ui.revisionDialog.selectTemplate@Select Template">
     <prop type="sectionname" xml:lang="en-us">Compare Screen</prop>
@@ -3892,6 +4992,9 @@ Documentación' href='https://percussioncmshelp.intsof.com/'&gt;percussioncmshel
    </tuv>
    <tuv xml:lang="es">
        <seg>Seleccionar plantilla</seg>
+   </tuv>
+   <tuv xml:lang="hi">
+       <seg>टेम्प्लेट चुनें</seg>
    </tuv>
 </tu>
 <tu tuid="perc.ui.revisionDialog.notComparable@Not compareable">
